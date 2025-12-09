@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>SLMP3 Crawl</title>
+    <meta charset="UTF-8">
+    <title>SLMP3 Crawl - Search</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    </head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+</head>
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
   :root {
     --bg-color: rgb(255,255,255);
     --text-color: rgb(0,0,0);
@@ -82,10 +83,8 @@
   }
 </style>
 <body data-theme="light">
-
 <button id="theme-toggle">Toggle Dark/Light</button>
 <h1>SLMP3 Crawl</h1>
-
 <div id="search-box">
   <input type="text" id="query" placeholder="Search...">
   <button id="search-btn">Search</button>
@@ -94,6 +93,14 @@
 <div id="results"></div>
 
 <script>
+const stopwords = new Set([
+  "a","o","os","as","de","da","do","das","dos","e","é","em","para","por","com",
+  "que","um","uma","uns","umas","no","na","nos","nas","ao","à","aos","às",
+  "the","is","in","on","of","to","for","and","with","at","by",
+  "el","la","los","las","un","una","unos","unas","y","en","para","por","con",
+  "le","la","les","un","une","des","et","en","pour","avec","dans","de"
+]);
+
 const resultsDiv = document.getElementById('results');
 const queryInput = document.getElementById('query');
 const searchBtn = document.getElementById('search-btn');
@@ -126,12 +133,24 @@ searchBtn.addEventListener('click', () => {
 });
 
 function doSearch(q) {
-  const qLower = q.toLowerCase();
+  const words = q.toLowerCase()
+                 .split(/\s+/)
+                 .filter(w => w && !stopwords.has(w));
 
-  const results = pages.filter(p =>
-    p.title.toLowerCase().includes(qLower) ||
-    p.text.toLowerCase().includes(qLower)
-  );
+  if (words.length === 0) {
+    resultsDiv.innerHTML = `<strong>your input only has stopwords!</strong>`;
+    return;
+  }
+  
+  if (!q) {
+  
+  }
+
+  const results = pages.filter(p => {
+    const title = p.title.toLowerCase();
+    const text = p.text.toLowerCase();
+    return words.some(w => title.includes(w) || text.includes(w));
+  });
 
   resultsDiv.innerHTML = results.length
     ? results.map(p => `
@@ -159,6 +178,5 @@ toggleButton.addEventListener('click', () => {
   localStorage.setItem('theme', newTheme);
 });
 </script>
-
 </body>
 </html>

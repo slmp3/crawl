@@ -20,6 +20,11 @@
     "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
   },
   {
+    "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+    "url": "https://www.bbc.com/news",
+    "text": "Visit BBC News for the latest news, breaking news, video, audio and analysis. BBC News provides trusted World, U.S. and U.K. news as well as local and regional perspectives. Also entertainment, climate, business, science, technology and health news."
+  },
+  {
     "title": "Hacker News",
     "url": "https://news.ycombinator.com",
     "text": "Hacker Newsnew | past | comments | ask | show | jobs | submit"
@@ -40,9 +45,14 @@
     "text": "Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want to know."
   },
   {
+    "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+    "url": "https://www.yahoo.com",
+    "text": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!"
+  },
+  {
     "title": "Make your donation now - Wikimedia Foundation",
     "url": "https://donate.wikimedia.org/?wmf_medium=portal&wmf_campaign=portalFooter&wmf_source=portalFooter",
-    "text": "Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and its sister projects. Our goal i"
+    "text": "Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and our other projects. Our goal is"
   },
   {
     "title": "List of Wikipedia mobile apps - Wikipedia",
@@ -50,19 +60,19 @@
     "text": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"
   },
   {
-    "title": "‎Wikipedia on the App Store",
+    "title": "Wikipedia - Apps on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=org.wikipedia&referrer=utm_source%3Dportal%26utm_medium%3Dbutton%26anid%3Dadmob",
+    "text": "The official app for Wikipedia, the world’s largest source of information."
+  },
+  {
+    "title": "‎Wikipedia App - App Store",
     "url": "https://itunes.apple.com/app/apple-store/id324715238?pt=208305&ct=portal&mt=8",
-    "text": "Explore your world, find a quick fact, or dive down a Wikipedia rabbit hole with the official Wikipedia app for iOS. With more than 40 million articles across n…"
+    "text": "Download Wikipedia by Wikimedia Foundation on the App Store. See screenshots, ratings and reviews, user tips, and more games like Wikipedia."
   },
   {
     "title": "Get Firefox for desktop and mobile — Firefox.com",
     "url": "https://www.firefox.com?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=firefox",
     "text": "Firefox is a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy."
-  },
-  {
-    "title": "Mozilla Monitor",
-    "url": "https://monitor.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
-    "text": "Find out if you’ve been part of a data breach with ⁨Mozilla Monitor⁩. We’ll help you understand what to do next and continuously monitor for any new breaches."
   },
   {
     "title": "Firefox Relay",
@@ -75,9 +85,9 @@
     "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
   },
   {
-    "title": "Thunderbird — Free Your Inbox. — Thunderbird",
+    "title": "No Title",
     "url": "https://www.thunderbird.net/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
-    "text": "Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!"
+    "text": "Meet Thunderbird, the email and productivity app that maximizes your freedoms."
   },
   {
     "title": "Welcome to Mozilla Foundation - Mozilla Foundation",
@@ -120,8 +130,8 @@
     "text": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
   },
   {
-    "title": "Firefox 144.0.2, See All New Features, Updates and Fixes",
-    "url": "https://www.firefox.com/firefox/144.0.2/releasenotes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
+    "title": "Firefox 145.0.2, See All New Features, Updates and Fixes",
+    "url": "https://www.firefox.com/firefox/145.0.2/releasenotes/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer",
     "text": "In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy."
   },
   {
@@ -180,14 +190,29 @@
     "text": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. - mdn/content"
   },
   {
-    "title": "DOM scripting introduction: Remove redundant instruction in \"Creating a dynamic shopping list\" exerc",
-    "url": "https://github.com/mdn/content/pull/41772",
-    "text": "Clarified instructions for building a dynamic shopping list by removing redundant phrasing about item deletion. Description Removes a duplicated requirement (item 2 and 3 were identical) to prev..."
+    "title": "feat(css): add baseline-source prop by bsmth · Pull Request #42228 · mdn/content · GitHub",
+    "url": "https://github.com/mdn/content/pull/42228",
+    "text": "Description Adds a reference page for baseline-source. Motivation This slipped through Fx release in 115. Additional details https://bugzilla.mozilla.org/show_bug.cgi?id=1809568 Related issues an..."
   },
   {
-    "title": "added await-import examples for importing json modules by therealadityashankar · Pull Request #41773",
-    "url": "https://github.com/mdn/content/pull/41773",
-    "text": "Description I added the await-import syntax for completeness sake, I believe this syntax is likely to be used in the await-import syntax much more as compared to it's use on the top-level (I can be..."
+    "title": "chore(deps-dev): bump lefthook from 2.0.7 to 2.0.8 by dependabot[bot] · Pull Request #42246 · mdn/co",
+    "url": "https://github.com/mdn/content/pull/42246",
+    "text": "Bumps lefthook from 2.0.7 to 2.0.8. Release notes Sourced from lefthook's releases. v2.0.8 Changelog 0324368284009ac0946a529b021495ad6f7377cc fix: do not escape custom templates in command repla..."
+  },
+  {
+    "title": "fix: Multiple repeated words by bsmth · Pull Request #42245 · mdn/content · GitHub",
+    "url": "https://github.com/mdn/content/pull/42245",
+    "text": "Description Found using vale .vale.ini: [*.md] Vale.Repetition = YES vale ./files/en-us/web/"
+  },
+  {
+    "title": "Editorial review: Document interest invokers by chrisdavidmills · Pull Request #42021 · mdn/content ",
+    "url": "https://github.com/mdn/content/pull/42021",
+    "text": "Description Chrome 142 adds support for interest invokers: see https://chromestatus.com/feature/4530756656562176. This PR aims to document all features of interest invokers. Specifically, it will a..."
+  },
+  {
+    "title": "CSS properties only: Links to macros by estelle · Pull Request #42131 · mdn/content · GitHub",
+    "url": "https://github.com/mdn/content/pull/42131",
+    "text": "in the css directory, changed all the CSS links to CSS properties only to macros"
   },
   {
     "title": "GitHub - mdn/translated-content: 7 community-maintained translations of MDN Web Docs in ES, FR, JA, ",
@@ -195,44 +220,29 @@
     "text": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language. - mdn/translated-content"
   },
   {
-    "title": "[ko] URI Reference 신규 번역 by taerimiiii · Pull Request #29862 · mdn/translated-content · GitHub",
-    "url": "https://github.com/mdn/translated-content/pull/29862",
-    "text": "Description 최근에 RESTful API Endpoint 설계를 배우면서 URI, URL, URN의 차이점과 연관관계를 공부하였는데, 마침 관련 주제인 URI 문서가 번역이 안 되어 있어서 번역하게 되었습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화에 참여해 번역하게 되었습니다."
+    "title": "chore(fr): update of `Web/API/HTMLFormElement/target` by tristantheb · Pull Request #31067 · mdn/tra",
+    "url": "https://github.com/mdn/translated-content/pull/31067",
+    "text": "Description Update translation of pages without french version: Web/API/HTMLFormElement/target Motivation Update access to the french community of translated content. Additional details none Relate..."
   },
   {
-    "title": "[ko] Web/HTTP/Guides 신규 번역 by Eomhyunjun · Pull Request #30136 · mdn/translated-content · GitHub",
-    "url": "https://github.com/mdn/translated-content/pull/30136",
-    "text": "Description https://github.com/mdn/translated-content/pull/29745의 깃이 꼬여서 브랜치 변경 후 재업로드하였습니다."
+    "title": "chore(fr): update of `Web/HTML/Reference/Elements/header` by tristantheb · Pull Request #31070 · mdn",
+    "url": "https://github.com/mdn/translated-content/pull/31070",
+    "text": "Description Update translation of pages without french version: Web/HTML/Reference/Elements/header Motivation Update access to the french community of translated content. Additional details none Re..."
   },
   {
-    "title": "[ko] URI Guides 신규 번역 by taerimiiii · Pull Request #29861 · mdn/translated-content · GitHub",
-    "url": "https://github.com/mdn/translated-content/pull/29861",
-    "text": "Description 최근에 RESTful API Endpoint 설계를 배우면서 URI, URL, URN의 차이점과 연관관계를 공부하였는데, 마침 관련 주제인 URI 문서가 번역이 안 되어 있어서 번역하게 되었습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화에 참여해 번역하게 되었습니다."
+    "title": "chore(fr): update of `Web/HTML/Reference/Elements/hgroup` by tristantheb · Pull Request #31071 · mdn",
+    "url": "https://github.com/mdn/translated-content/pull/31071",
+    "text": "Description Update translation of pages without french version: Web/HTML/Reference/Elements/hgroup Motivation Update access to the french community of translated content. Additional details none Re..."
   },
   {
-    "title": "[ko] eventSource open event 신규 번역 by LimeTree0 · Pull Request #29909 · mdn/translated-content · GitH",
-    "url": "https://github.com/mdn/translated-content/pull/29909",
-    "text": "Description eventSource의 open 이벤트에 대한 한국어 페이지를 신규 번역했습니다. Motivation [2025 OSSCA 체험형-2차] MDN 문서 한글화 프로젝트를 통해 번역을 진행하게 되었습니다."
+    "title": "chore(fr): update of `Web/HTML/Reference/Elements/hr` by tristantheb · Pull Request #31072 · mdn/tra",
+    "url": "https://github.com/mdn/translated-content/pull/31072",
+    "text": "Description Update translation of pages without french version: Web/HTML/Reference/Elements/hr Motivation Update access to the french community of translated content. Additional details none Relate..."
   },
   {
-    "title": "[ko] Response: Response() constructor 신규 번역 by umsungjun · Pull Request #29895 · mdn/translated-cont",
-    "url": "https://github.com/mdn/translated-content/pull/29895",
-    "text": "Description Response: Response() constructor 원문 문서가 한국어로 번역되지 않아, 이번에 번역을 진행했습니다. Motivation 25[체험형-2차] MDN 문서 한글화 프로그램에 참여하며 번역을 시도하게 되었습니다."
-  },
-  {
-    "title": "Fix: Use px unit in @property/initial-value example by Mattia-Rollo · Pull Request #41781 · mdn/cont",
-    "url": "https://github.com/mdn/content/pull/41781",
-    "text": "Description Fixes #41759 Motivation Additional details Related issues and pull requests"
-  },
-  {
-    "title": "FF145 Relnote: Trusted Types early beta by hamishwillee · Pull Request #41518 · mdn/content · GitHub",
-    "url": "https://github.com/mdn/content/pull/41518",
-    "text": "FF145 supports Trusted Types in early beta in https://bugzilla.mozilla.org/show_bug.cgi?id=1992941 This adds a release note, experimental feature, and updates the API overview page. This is a minim..."
-  },
-  {
-    "title": "fix: auto-cleanup by bot by mdn-bot · Pull Request #41785 · mdn/content · GitHub",
-    "url": "https://github.com/mdn/content/pull/41785",
-    "text": "This PR was generated by this run of the auto-cleanup-bot workflow. All issues were auto-fixed."
+    "title": "chore(fr): translation of `Web/API/HTMLHRElement` by tristantheb · Pull Request #31073 · mdn/transla",
+    "url": "https://github.com/mdn/translated-content/pull/31073",
+    "text": "Description Create translation of pages without french version: Web/API/HTMLHRElement Motivation Create access to the french community of translated content. Additional details none Related issues ..."
   },
   {
     "title": "MDN Web Docs · GitHub",
@@ -247,7 +257,7 @@
   {
     "title": "MDN Web Docs (@mdn@mastodon.social) - Mastodon",
     "url": "https://mastodon.social/@mdn",
-    "text": "266 Posts, 5 Following, 2.38K Followers · The official MDN Web Docs account. We deliver the best web docs around. Visit → https://mdn.dev Contribute → https://mdn.dev/community"
+    "text": "314 Posts, 5 Following, 2.43K Followers · The official MDN Web Docs account. We deliver the best web docs around. Visit → https://mdn.dev Contribute → https://mdn.dev/community"
   },
   {
     "title": "Mozilla Careers — All open positions at Mozilla",
@@ -290,139 +300,434 @@
     "text": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination."
   },
   {
-    "title": "Tiny electric motor is as powerful as four Tesla motors put together and outperforms record holder b",
-    "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-    "text": "UK-based YASA has just built a tiny electric motor that makes Tesla motors look like slackers, and this invention could potentially reshape the future of EVs"
+    "title": "BBC Weather - Home",
+    "url": "https://www.bbc.com/weather",
+    "text": "Latest weather conditions and forecasts for the UK and the world. Includes up to 14-days of hourly forecast information, warnings, maps, and the latest editorial analysis and videos from the BBC Weather Centre."
   },
   {
-    "title": "KaTeX – The fastest math typesetting library for the web",
-    "url": "https://katex.org/",
-    "text": "KaTeX"
+    "title": "BBC Newsletters",
+    "url": "https://www.bbc.com/newsletters",
+    "text": "BBC Newsletters sign-up page"
   },
   {
-    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
-    "url": "https://blog.cloudflare.com/introducing-oxy/",
-    "text": "In this blog post, we are proud to introduce Oxy - our modern proxy framework, developed using the Rust programming language."
+    "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
+    "url": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+    "text": "In 1975, a young engineer in the company that made Kodak film took the first picture on a handheld digital camera. Photography would never be the same again."
   },
   {
-    "title": "ECL runs Maxima in a browser - ecl-devel - mailman3.common-lisp.net",
-    "url": "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/",
-    "text": "Thought you would be interested to know that Marius Gerbershagen has used ecl to compile Maxima to wasm to run in a browser. I believe it's a pretty complete implementation with fancy TeX display of formulas and nice graphics via gnuplot compiled to "
+    "title": "Wolves vs Man Utd LIVE: Premier League score, stats & updates - BBC Sport",
+    "url": "https://www.bbc.com/sport/football/live/c8jwgrwywljt",
+    "text": "Follow live text commentary, score updates and match stats from Wolverhampton Wanderers vs Manchester United in the Premier League"
   },
   {
-    "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It in Action | Open CulturePa",
-    "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-    "text": "It's fair to say that few of us now marvel at moving walkways, those standard infrastructural elements of such utilitarian spaces as airport terminals, subway stations, and big-box stores. But there was a time when they astounded even residents of on"
+    "title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Trave",
+    "url": "https://www.bbc.com/",
+    "text": "Visit BBC for trusted reporting on the latest world and US news, sports, business, climate, innovation, culture and much more."
   },
   {
-    "title": "The Arduino Uno Q is a weird hybrid SBC | Jeff Geerling",
-    "url": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc",
-    "text": "The Arduino Uno Q is a weird hybrid SBC"
+    "title": "BBC Shop | Official BBC & Doctor Who Merch, Collectibles and More!",
+    "url": "https://shop.bbc.com/",
+    "text": "Shop official BBC merch including Doctor Who shirts, figures, mugs & gifts. Explore BBC Earth, Bluey & more at the BBC Shop - your source for exclusive BBC merchandise!"
   },
   {
-    "title": "China intimidated UK university to ditch human rights research, documents show",
-    "url": "https://www.bbc.com/news/articles/cq50j5vwny6o",
-    "text": "Sheffield Hallam University apologises to Professor Laura Murphy for restricting her academic freedom."
+    "title": "Location not Supported | BritBox",
+    "url": "https://www.britbox.com/?utm_source=bbc.com&utm_medium=referral&utm_campaign=footer",
+    "text": "Visit our Help & Support Help & Support"
   },
   {
-    "title": "When Models Manipulate Manifolds: The Geometry of a Counting Task",
-    "url": "https://transformer-circuits.pub/2025/linebreaks/index.html",
-    "text": "Intelligent systems need perception to understand, predict, and navigate their environment. These sensory capabilities reflect what's useful for survival in a specific environment: bats use echolocation, migratory birds sense magnetic fields, Arctic "
+    "title": "Oduu - BBC News Afaan Oromoo",
+    "url": "https://www.bbc.com/afaanoromoo",
+    "text": "BBC Afaan Oromoo irratti Oduu, Odeessaa fi taateewwan haaraa Itoophiyaa, Afriikaa fi guutuu addunyaa irratti ta’an argattu. Yeroo mara waan haaraa jiru baruuf gara keenya koottaa."
   },
   {
-    "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody – Krebs on Security",
-    "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-    "text": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned."
+    "title": "ዜና - BBC News አማርኛ",
+    "url": "https://www.bbc.com/amharic",
+    "text": "ከዓለም ዙሪያ የተውጣጡ ዜናዎችንና የተለያዩ መረጃዎችን በየዕለቱ እናቀርባለን። ምንጊዜም ከቢቢሲ አማርኛ ከማንም ያልወገኑ፣ ሚዛናዊ፣ ተዓማኒ፣ ግልጽና እውነተኛ መረጃዎችን ማግኘት እንደሚችሉ እናምናለን።"
   },
   {
-    "title": "\"Why don't you use dependent types?\"",
-    "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-    "text": "02 Nov 2025"
+    "title": "الرئيسية - BBC News عربي",
+    "url": "https://www.bbc.com/arabic",
+    "text": "بي بي سي العربية هي شبكة لنقل الأخبار والمعلومات ومقاطع الفيديو إلى العالم عبر عدة وسائط، تشمل الإنترنت ومواقع التواصل الاجتماعي والراديو والتلفزيون والهواتف المحمولة."
   },
   {
-    "title": "Your URL Is Your State",
-    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-    "text": "A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps."
+    "title": "Xəbərlər, Qaynar Xəbərlər, Analiz, Video - BBC News Azərbaycanca",
+    "url": "https://www.bbc.com/azeri",
+    "text": "BBC News Azərbaycanca öz səhifələrində Azərbaycan və dünyadan bu günün xəbərləri və şərhlərini təqdim edir. Visit BBC News Azerbaijan for the latest from Azerbaijan, Armenia, Georgia."
   },
   {
-    "title": "Syllabi - Open Source AI Chatbot Platform with RAG",
-    "url": "https://www.syllabi-ai.com/",
-    "text": "Build intelligent AI chatbots with RAG, native Python/R code execution, and seamless integrations. Connect to Slack, Discord, Google Drive, and more. Free and open source."
+    "title": "খবর, সর্বশেষ খবর, ব্রেকিং নিউজ | News, latest news, breaking news - BBC News বাংলা",
+    "url": "https://www.bbc.com/bengali",
+    "text": "বাংলাদেশ এবং বিশ্বের সর্বশেষ খবর, প্রতিবেদন, বিশ্লেষণ, সাক্ষাৎকার, ভিডিও, অডিও এবং ফিচারের জন্য বিবিসি বাংলার ওয়েবসাইটে আসুন। খেলাধুলা, বিনোদন, ব্যবসা-বাণিজ্য, বিজ্ঞান, প্রযুক্তি এবং স্বাস্থ্য সহ নানা বিষয়ে ফিচার ও বিশ্লেষণও থাকে আমাদের পাতায়।"
   },
   {
-    "title": "How the Mayans were able to accurately predict solar eclipses for centuries",
-    "url": "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html",
-    "text": "The Maya Civilization, from Central America, was one of the most advanced ancient civilizations, known for its significant achievements in astronomy and mathematics. This includes accurate calendars and detailed celestial records, but scientists don'"
+    "title": "ဘီဘီစီ မြန်မာ | အထူးသတင်း | နောက်ဆုံးရ သတင်း | နောက်ဆုံးရခေါင်းစဉ် သတင်း |မြန်မာသတင်း - BBC News မြန",
+    "url": "https://www.bbc.com/burmese",
+    "text": "နောက်ဆုံးရ သတင်း၊ အထူးသတင်း၊ ကမ္ဘာနဲ့ မြန်မာ့ရေးရာ သတင်းတွေ၊ ဗီဒီယိုနဲ့ ရုပ်သံ သတင်းတွေ၊ ဆောင်းပါးတွေကို ဘီဘီစီမြန်မာပိုင်း စာမျက်နှာမှာ အချိန်နဲ့ တပြေးညီ တင်ဆက်ပေးနေပါတယ်။ အနုပညာ၊ ဘောလုံး၊ အားကစား၊ သိပ္ပံ နည်းပညာနဲ့ စီးပွားရေး စတဲ့ အကြောင်းအရာမျိုးစ"
   },
   {
-    "title": "Micro Maker Series: Underdetermined Weaving with Machines - YouTube",
-    "url": "https://www.youtube.com/watch?v=on_sK8KoObo",
-    "text": "Part of the Crafting Change Symposium hosted by the Center for Convergence at Oberlin College and Conservatory, the Micro Maker Series is a fully virtual lec..."
+    "title": "主页 - BBC News 中文",
+    "url": "https://www.bbc.com/zhongwen/simp",
+    "text": "BBC中文网是面向全球华人并每日更新的新闻资讯网站，提供客观及时和准确的内容以及对新闻故事的深入分析和评论。我们也提供繁体版脸书。"
   },
   {
-    "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-    "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
-    "text": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
+    "title": "صفحه اول - BBC News دری",
+    "url": "https://www.bbc.com/dari",
+    "text": "سایت بی‌بی‌سی‌دری تازه‌ترین اخبار و گزارش ها درباره افغانستان، منطقه و جهان در حوزه سیاست، اقتصاد، جامعه و فرهنگ و همچنین ویدیو، گزارش‌های تصویری و پخش زنده کانال ماهواره‌ای بی‌بی‌سی‌نیوز افغانستان را به شما ارائه می‌کند."
+  },
+  {
+    "title": "Accueil - BBC News Afrique",
+    "url": "https://www.bbc.com/afrique",
+    "text": "BBC Afrique, le service en langue française de la BBC, vous offre toute l'actualité en Afrique et dans le monde. Politique, sport, culture, articles, photos, vidéo et radio. Une offre multimédia complète : une fenêtre sur l'Afrique et sur le monde."
+  },
+  {
+    "title": "Labaran Duniya - BBC News Hausa",
+    "url": "https://www.bbc.com/hausa",
+    "text": "Ziyarci shafin BBC Hausa domin samun rahotannin bidiyo da hotuna kan labarun Najeriya da Nijar da ma sauran sassan duniya baki daya."
+  },
+  {
+    "title": "ब्रेकिंग न्यूज़ समाचार, ताजा खबर | News, latest news, breaking news - BBC News हिंदी",
+    "url": "https://www.bbc.com/hindi",
+    "text": "हिंदी में ताज़ा समाचार, ब्रेकिंग न्यूज़, वीडियो, ऑडियो और फ़ीचर. बीबीसी हिंदी डॉटकॉम पर भारत, पाकिस्तान और चीन सहित दुनिया भर की ताज़ा ख़बरें. BBC HINDI for up-to-the-minute news, breaking news, video, audio and feature stories."
+  },
+  {
+    "title": "Naidheachdan - BBC Naidheachdan",
+    "url": "https://www.bbc.com/naidheachdan",
+    "text": "All the latest content about Naidheachdan from the BBC."
+  },
+  {
+    "title": "BBC News Gujarati, Gujarat Samachar, Gujarati News, સમાચાર, News in Gujarati, Gujarati Samachar, Lat",
+    "url": "https://www.bbc.com/gujarati",
+    "text": "BBC News Gujarati, Gujarat Samachar, Latest News in Gujarati: Gujarati News, Gujarati Samachar, News in Gujarati, Gujarat News, Gujarati News Headlines including Ahmedabad News, Rajkot News, Vadodara News, Surat News, Banaskantha News, Weather News, "
+  },
+  {
+    "title": "Ogbako - BBC News Ìgbò",
+    "url": "https://www.bbc.com/igbo",
+    "text": "BBC News Igbo na-agbasa akụkọ sị Naịjirịa, Afịrịka na mba ụwa niile... Ihe na-eme ugbua gbasara akụkọ, egwuregwu, ihe nkiri na ihe na-ewu ewu... BBC Nkeji."
+  },
+  {
+    "title": "Berita - BBC News Indonesia",
+    "url": "https://www.bbc.com/indonesia",
+    "text": "Berbagai laporan mendalam yang membahas teknologi dan ilmu pengetahuan dalam tahap riset, penerapan, maupun konsep."
+  },
+  {
+    "title": "最新ニュース - BBCニュース",
+    "url": "https://www.bbc.com/japanese",
+    "text": "BBCニュースが伝える世界の動き、BBCニュースならではの視点を日本語でお届けします。世界各地で取材する日々の出来事、世界の人が注目している話題の紹介や解説を、日本語の記事、ビデオ、写真ギャラリーなどで"
+  },
+  {
+    "title": "Urupapuro rw'itangiriro - BBC News Gahuza",
+    "url": "https://www.bbc.com/gahuza",
+    "text": "BBC Gahuza itanga amakuru yizewe yo kw’isi hamwe no mu karere"
+  },
+  {
+    "title": "홈페이지 - BBC News 코리아",
+    "url": "https://www.bbc.com/korean",
+    "text": "BBC 코리아는 한반도는 물론 전 세계 독자 및 청취자에게 뉴스를 전달합니다. 우리의 목표는 공정하고 공평한 뉴스를 보도하는 것입니다."
+  },
+  {
+    "title": "Кабарлар, акыркы мүнөттөгү кабарлар, талдоо, видео - BBC News Кыргыз Кызматы",
+    "url": "https://www.bbc.com/kyrgyz",
+    "text": "Дүйнөлүк кабарлар, саясат, экономика, спорт, Кыргызстандагы урунттуу окуялар, аналитика, жаңылыктар, соңку кабарлар, маектер. Би-Би-Си Кыргыз кызматынын сайтынан окуңуз."
+  },
+  {
+    "title": "बातम्या - BBC News मराठी",
+    "url": "https://www.bbc.com/marathi",
+    "text": "महाराष्ट्र, देश आणि जगभरातल्या ताज्या बातम्या, लेख आणि व्हीडिओ. Get the latest BBC News stories from India and the world in Marathi."
+  },
+  {
+    "title": "मुख पृष्ठ - BBC News नेपाली",
+    "url": "https://www.bbc.com/nepali",
+    "text": "ताजा समाचार, विश्लेषण, रेडिओ नेपाली भाषामा - Latest News, Explainers, Radio in Nepali, BBC Nepali Sewa"
+  },
+  {
+    "title": "Noticias - BBC News Mundo",
+    "url": "https://www.bbc.com/mundo",
+    "text": "BBC Mundo le presenta una selección de contenidos y acontecimientos más importantes de la actualidad. Las últimas noticias e información en materia internacional, sobre América Latina, tecnología, ciencia, salud, economía. Fotos y videos."
+  },
+  {
+    "title": "کور پاڼه - BBC News پښتو",
+    "url": "https://www.bbc.com/pashto",
+    "text": "د افغانستان، سیمې او نړۍ په اړه تازه خبرونه، رپوټونه، شننې، څېړنې، مرکې، لوبې، ژوندۍ رادیويي خپرونې، ويډیوګانې، ستاسې نظرونه او نور ډېر په زړه پورې مطالب په بي بي سي پښتو انټرنېټ پاڼه کې."
+  },
+  {
+    "title": "صفحه اول - BBC News فارسی",
+    "url": "https://www.bbc.com/persian",
+    "text": "سایت فارسی بی‌بی‌سی تازه‌ترین اخبار و گزارش ها درباره ایران و افغانستان و جهان در حوزه سیاست، اقتصاد، جامعه و فرهنگ و همچنین ویدیو، گزارش‌های تصویری و برنامه‌های تلویزیون فارسی را به شما ارائه می‌دهد."
+  },
+  {
+    "title": "Domot - BBC News Pidgin",
+    "url": "https://www.bbc.com/pidgin",
+    "text": "We dey give una latest tori on top politics, environment, business, sports, entertainment, health, fashion and all di oda things wey dey happen for West and Central Africa come add di rest of di world join. For better informate plus explanation of al"
+  },
+  {
+    "title": "Strona główna - BBC News Polska",
+    "url": "https://www.bbc.com/polska",
+    "text": "Najświeższe informacje dotyczące wydarzeń w Europie i na świecie, środowiska, zdrowia, kultury oraz biznesu. Pełna oferta multimedialna w języku polskim obejmująca wiadomości i analizy, zdjęcia, materiały wideo oraz treści interaktywne przygotowane p"
+  },
+  {
+    "title": "Notícias, vídeos, análise e contexto em português - BBC News Brasil",
+    "url": "https://www.bbc.com/portuguese",
+    "text": "Na BBC News Brasil você fica por dentro do que acontece no Brasil e no mundo. Com redações em Londres e São Paulo e mais de 200 repórteres internacionais, nossa cobertura leva a você as principais notícias de política, economia, ciência, saúde e comp"
+  },
+  {
+    "title": "ਨਿਊਜ਼ - BBC News ਪੰਜਾਬੀ",
+    "url": "https://www.bbc.com/punjabi",
+    "text": "ਪੰਜਾਬ ਤੇ ਭਾਰਤ ਸਬੰਧੀ ਤੇ ਕੌਮਾਂਤਰੀ ਖ਼ਬਰਾਂ ਲਈ ਬੀਬੀਸੀ ਪੰਜਾਬੀ ’ਤੇ ਆਓ। ਇੱਥੇ ਤੁਹਾਨੂੰ ਸਿਆਸਤ ਤੇ ਸਮਾਜ ਨਾਲ ਜੁੜੀਆਂ ਖ਼ਬਰਾਂ ਤੋਂ ਇਲਾਵਾ ਫੋਟੋ ਫੀਚਰ, ਵੀਡੀਓ ਤੇ ਮਨੋਰਥ ਭਰਪੂਰ ਲੇਖ ਵੀ ਮਿਲਣਗੇ। ਨੌਜਵਾਨਾਂ ਤੇ ਔਰਤਾਂ ਦਾ ਖ਼ਾਸ ਧਿਆਨ ਰੱਖਦੇ ਹੋਏ ਸੋਸ਼ਲ ਮੀਡੀਆ ਰੁਝਾਨਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਮਿਲੇਗੀ।"
+  },
+  {
+    "title": "Главная - BBC News Русская служба",
+    "url": "https://www.bbc.com/russian",
+    "text": "Русская служба Би-би-си – это непредвзятое освещение событий в России и мире на русском языке."
+  },
+  {
+    "title": "Glavna stranica - BBC News na srpskom",
+    "url": "https://www.bbc.com/serbian/lat",
+    "text": "BBC na srpskom nudi ekskluzivan sadržaj - analitičko, istraživačko i nepristrasno izveštavanje u tekstovima i video prilozima prilagođenim i društvenim mrežama."
+  },
+  {
+    "title": "ප්‍රධාන පුවත් - BBC News සිංහල",
+    "url": "https://www.bbc.com/sinhala",
+    "text": "ශ්‍රී ලංකාව සම්බන්ධ නැවුම් පුවත්, අලුත්ම පුවත්, ක්‍රිකට්, විශේෂ සම්මුඛ සාකච්ඡා, හඬපට, වීඩියෝ පට, ප්‍රවෘත්ති විශ්ලේෂණ, විශේෂාංග, කාලීන ප්‍රවෘත්ති සහ ව්‍යාපාරික හා කලා තොරතුරු දැන ගැනීමට බීබීසී සිංහල වෙබ් අඩවියට පිවිසෙන්න."
+  },
+  {
+    "title": "Somali - BBC News Somali",
+    "url": "https://www.bbc.com/somali",
+    "text": "BBC Somali waxa aad ka heleysaa wararkii ugu dambeeyay ee Soomaalida iyo caalamkaba."
+  },
+  {
+    "title": "Swahili - BBC News Swahili",
+    "url": "https://www.bbc.com/swahili",
+    "text": "Hii ni tovuti ya idhaa ya Kiswahili ya BBC ambayo hukuletea habari na makala kutoka Afrika na kote duniani kwa lugha ya Kiswahili. Tembelea tovuti hii pia kusikiliza vipindi vya redio."
+  },
+  {
+    "title": "முகப்பு - BBC News தமிழ்",
+    "url": "https://www.bbc.com/tamil",
+    "text": "தமிழ்நாடு, இந்தியா, இலங்கை மற்றும் சர்வதேச செய்திகளையும், ஆழமான கண்ணோட்டங்களையும் அறிந்துகொள்ள."
+  },
+  {
+    "title": "వార్తలు - BBC News తెలుగు",
+    "url": "https://www.bbc.com/telugu",
+    "text": "ప్రపంచం నలుమూలలా విస్తరించిన బీబీసీ నెట్‌వర్క్ అందించే నిస్పాక్షికమైన వార్తలు, సామాజిక ఆర్థిక రాజకీయ రంగాలపై లోతైన విశ్లేషణలు, ఆరోగ్యం- శాస్ర్త సాంకేతిక అంశాలపై సునిశితమైన కథనాలు, గ్రౌండ్ రిపోర్ట్స్, వీడియోలు, ఫొటోగ్యాలరీలు, ఇంకా మీరు కోరుకునే మరెన్న"
+  },
+  {
+    "title": "ข่าว ข่าววันนี้ ข่าวล่าสุด วีดีโอ - BBC News ไทย",
+    "url": "https://www.bbc.com/thai",
+    "text": "บีบีซีไทย นำเสนอข่าวสารที่เชื่อถือได้จากไทยและทุกมุมโลก"
+  },
+  {
+    "title": "ዜና - BBC News ትግርኛ",
+    "url": "https://www.bbc.com/tigrinya",
+    "text": "ብድምጽን ስእልን ጽሑፍን ንዝቐርብ: ዕለታውን ሰበር ዜናታትን ዛንታታት ቢቢሲን ንምክትታል፡ ናብ ድሕረ ገጻት መርበብ ሓበሬታና ብጽሑ። ቢቢሲ፡ ርጡብን እሙንን ዘቤታውን ዓለማውን ዜናታትን ኣመለኻኸታን የቕርብ። ከምኡ እውን ዘዛኒ መደባት፡ ንቢዝነስ፡ ሳይንስ፡ ቴክኖሎጂን ጥዕናን ዝምልከት ትሕዝቶታት የቕርብ እዩ’ሞ ንኽትከታትሉና ናብ መርበብ ሓበሬታ ቢቢሲ ንዕድመኩም"
+  },
+  {
+    "title": "Haberler - BBC News Türkçe",
+    "url": "https://www.bbc.com/turkce",
+    "text": "Türkiye ve dünya gündemindeki son gelişmeler, son dakika haberleri, video, analiz, teknoloji haberleri, sağlık haberleri, spor haberleri, ekonomi haberleri, fotoğraf albümleri, canlı yayınlar BBC Türkçe sayfalarında."
+  },
+  {
+    "title": "Новини - BBC News Україна",
+    "url": "https://www.bbc.com/ukrainian",
+    "text": "Останні новини України та світу, новини дня на BBC Україна"
+  },
+  {
+    "title": "خبریں، تازہ خبریں، بریکنگ نیو | News, latest news, breaking news - BBC News اردو",
+    "url": "https://www.bbc.com/urdu",
+    "text": "تازہ ترین خبروں، ویڈیوز اور آڈیوز کے لیے بی بی سی اردو پر آئیے۔ بی بی سی اردو دنیا بھر کی خبروں کے حصول کے لیے ایک قابلِ اعتماد ویب سائٹ ہے۔"
+  },
+  {
+    "title": "Бош саҳифа - BBC News O'zbek",
+    "url": "https://www.bbc.com/uzbek",
+    "text": "BBC Uzbek ( Би-би-си Ўзбек хизмати) Ўзбекистон, минтақа ва жаҳон янгиликлари учун холис ҳамда ишончли манбадир"
+  },
+  {
+    "title": "Tin chính - BBC News Tiếng Việt",
+    "url": "https://www.bbc.com/vietnamese",
+    "text": "BBC Tiếng Việt đem lại tin tức trung thực, khách quan về thế giới và Việt Nam."
+  },
+  {
+    "title": "Newyddion a mwy - BBC Cymru Fyw",
+    "url": "https://www.bbc.com/cymrufyw",
+    "text": "Gwasanaeth byw Cymraeg gan BBC Cymru sy'n cynnwys y newyddion diweddaraf a'r gorau o Gymru ar flaenau eich bysedd. News and more in Welsh by the BBC."
+  },
+  {
+    "title": "Àbáwọlé - BBC News Yorùbá",
+    "url": "https://www.bbc.com/yoruba",
+    "text": "Ibí yìí lo ti máa rí ojúlówó ìròyìn àjáàbalẹ̀ lórí ojú ọjọ́, ètò ọrọ̀ ajé, ìdánilárayá, òṣèlú, ìròyìn àgbáyé ní ìṣẹ́jú kan àtàwọn míràn. BBC Yorùbá máa ń ṣe ìròyìn àkànṣe, fídíò, ọ̀rọ̀ ẹnu, fọ́tò tó jojú ní gbèsè àti itọ́ni onísọ̀rọ̀-ǹ-gbèsì tó dáńtọ"
+  },
+  {
+    "title": "BBC Global Terms of Use",
+    "url": "https://www.bbc.com/pages/terms-of-use",
+    "text": "Page updated: 26 June 2025"
+  },
+  {
+    "title": "BBCGN Subscription Terms",
+    "url": "https://www.bbc.com/pages/subscription-terms",
+    "text": "Page updated: 26 June 2025"
+  },
+  {
+    "title": "Learn more about what we do",
+    "url": "https://www.bbc.co.uk/aboutthebbc",
+    "text": "Everything you need to know about the workings of the BBC"
+  },
+  {
+    "title": "BBC Studios Privacy Policy",
+    "url": "https://www.bbc.com/pages/privacy-policy",
+    "text": "Page updated: 19th August 2025"
+  },
+  {
+    "title": "Take control of your cookies",
+    "url": "https://www.bbc.com/usingthebbc/cookies/",
+    "text": "Cookies help us remember you and show you more things we think you’ll like."
+  },
+  {
+    "title": "Accessibility - BBC",
+    "url": "https://www.bbc.co.uk/accessibility/",
+    "text": "All audiences are important to the BBC."
+  },
+  {
+    "title": "Contact Home | Contact the BBC",
+    "url": "https://www.bbc.co.uk/contact",
+    "text": "Menu"
+  },
+  {
+    "title": "BBC Studios Advertising",
+    "url": "https://advertising.bbcstudios.com/",
+    "text": "BBC Studios creates and distributes globally acclaimed content that shapes culture and drives conversation. For advertisers, it's a powerful opportunity to connect with audiences in the moments that matter — where influence is built, loyalty is earne"
+  },
+  {
+    "title": "How can I change my BBC cookie settings?",
+    "url": "https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/",
+    "text": "Some essential features on BBC sites just won’t work without cookies. And having other cookies switched off can seriously affect the way you’ll be able to enjoy our services."
+  },
+  {
+    "title": "BBC.com Content Index",
+    "url": "https://www.bbc.com/pages/content-index",
+    "text": "Explore the BBC’s Online Content Index, an archive of evergreen content dating back to 2017. Contains links to past Articles, Features, and Media. Quickly access trusted journalism and in-depth coverage in one organised index."
   },
   {
     "title": "No Title",
-    "url": "https://cr.yp.to/2025/fil-c.html",
-    "text": "https://cr.yp.to/2025/fil-c.html"
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links",
+    "text": "https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links"
   },
   {
-    "title": "LISP-NOTES ON ITS PAST AND FUTURE-1980",
-    "url": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
-    "text": "LISP-NOTES ON ITS PAST AND FUTURE-1980"
+    "title": "Jepsen: NATS 2.12.1",
+    "url": "https://jepsen.io/analyses/nats-2.12.1",
+    "text": "NATS is a distributed streaming system. Regular NATS streams offer only best-effort delivery, but a subsystem, called JetStream, guarantees messages are delivered at least once. We tested NATS JetStream, version 2.12.1, and found that it lost writes "
   },
   {
-    "title": "Room-Temperature Terahertz Tech Emerges - IEEE Spectrum",
-    "url": "https://spectrum.ieee.org/terahertz-chip-room-temperature",
-    "text": "Harnessing terahertz waves with mercury telluride could transform data centers by reducing cables, saving space, and increasing efficiency."
+    "title": "Deep Dive into NVIDIA's Virtuous Cycle - Philippe Oger",
+    "url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
+    "text": "I’ve spent the last 48 hours completely falling down the rabbit hole of NVIDIA’s Q3 Fiscal 2026 earnings report. If you just skim the headlines, everything looks perfect: Revenue is up 62% to $57 billion, and Jensen Huang is talking about a \"virtuous"
   },
   {
-    "title": "[2312.17043] Collatz-Weyl Generators: High Quality and High Throughput Parameterized Pseudorandom Nu",
-    "url": "https://arxiv.org/abs/2312.17043",
-    "text": "Abstract page for arXiv paper 2312.17043: Collatz-Weyl Generators: High Quality and High Throughput Parameterized Pseudorandom Number Generators"
+    "title": "Northern Japan hit by M7.5 earthquake, tsunami advisories in effect | NHK WORLD-JAPAN News",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+    "text": "A magnitude 7.5 earthquake has struck northern Japan. Tsunami advisories are in effect for the Pacific coastline in northern Japan. Officials have also issued an alert for a potential mega quake in northern Japan."
   },
   {
-    "title": "Linux Tidbits And Collecting Pebbles | Unixbhaskar's Blog",
-    "url": "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/",
-    "text": "Well, my journey with Linux1 and Open source2 becoming quite astonish way of moving forward in life. I have been hugely influenced by the UNIX3 luminaries work and try to follow the principles they have established for the betterment. Sometimes, in f"
+    "title": "AMD GPU Debugger · Abdelhadi | عبدالهادي",
+    "url": "https://thegeeko.me/blog/amd-gpu-debugging/",
+    "text": "Abdelhadi' blog"
   },
   {
-    "title": "21 Facts About Throwing Good Parties",
-    "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-    "text": "Parties are a public service; here's how to throw them."
+    "title": "Hunting For North Korean Fiber Optic Cables | North Korean Internet",
+    "url": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
+    "text": "Before we go any further, one thing that I want to make clear is that the word assume is going to be doing some heavy lifting throughout this post. This was a rabbit hole that I recently went down and I probably have more questions than answers, but "
   },
   {
-    "title": "New prompt injection papers: Agents Rule of Two and The Attacker Moves Second",
-    "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
-    "text": "2nd November 2025"
+    "title": "IBM to Acquire Confluent",
+    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+    "text": "We are excited to announce that Confluent has entered into a definitive agreement to be acquired by IBM."
   },
   {
-    "title": "Reproducing the AWS Outage Race Condition with a Model Checker | Waqas Younas' blog",
-    "url": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
-    "text": "Welcome to Waqas' blog"
+    "title": "AI should only run as fast as we can catch up · Higashi.blog",
+    "url": "https://higashi.blog/2025/12/07/ai-verification/",
+    "text": "Steven (Dongze) Yue's personal blog."
   },
   {
-    "title": "Why Does Swiss Cheese Have Holes? | U.S. Dairy",
-    "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
-    "text": "Swiss cheese gets holes from carbon dioxide bubbles during the cheese-making process. Learn more about what causes the holes in Swiss cheese at U.S. Dairy."
+    "title": "How we collected 10,000 hours of neuro-language data in our basement - Conduit",
+    "url": "https://condu.it/thought/10k-hours",
+    "text": "Over the last 6 months, we collected ~10k hours of data across thousands of unique individuals. As far as we know, this is the largest neuro-language dataset in the world.[1]See here, here, here, here, and here (discussion only, no data available) fo"
   },
   {
-    "title": "No Title",
-    "url": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
-    "text": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2"
+    "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+    "url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+    "text": "← index"
   },
   {
-    "title": "Simple trick to increase coverage: Lying to users about signal strength | Nick vs Networking",
-    "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-    "text": "Poking around in Android the other day I found this nugget in Carrier Config manager; a flag (KEY_INFLATE_SIGNAL_STRENGTH_BOOL) to always report the signal strength to the user as one bar higher than it really is."
+    "title": "Quickstart | SQLFlow Documentation",
+    "url": "https://sql-flow.com/docs/tutorials/intro/",
+    "text": "Create a stream processor that reads data from Kafka in less than 5 minutes."
   },
   {
-    "title": "Apply to Y Combinator | Y Combinator",
-    "url": "https://www.ycombinator.com/apply/",
-    "text": "To apply for the Y Combinator program, submit an application form. We accept companies in batches four times a year. The program includes weekly dinners, office hours with YC partners and access to the network of other YC founders. The program culmin"
+    "title": "Microsoft Download Center Archive - Legacy Update",
+    "url": "https://legacyupdate.net/download-center/",
+    "text": "Welcome to Legacy Update’s archive of the Microsoft Download Center."
+  },
+  {
+    "title": "foundationdb/flow at main · apple/foundationdb · GitHub",
+    "url": "https://github.com/apple/foundationdb/tree/main/flow",
+    "text": "FoundationDB - the open source, distributed, transactional key-value store - foundationdb/flow at main · apple/foundationdb"
+  },
+  {
+    "title": "Microsoft 365 Pricing Increase in July 2026",
+    "url": "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/",
+    "text": "Customers will see their bills increase from July 1, 2026 when Microsoft 365 pricing increases go into effect, adding up to $3/month for licenses."
+  },
+  {
+    "title": "Paramount Skydance launches hostile bid for WBD after Netflix deal",
+    "url": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
+    "text": "Netflix won a bidding war for the Warner Bros. film studio and HBO Max streaming service, but it doesn't plan to buy WBD's TV networks."
+  },
+  {
+    "title": "Quanta Books to Publish Popular Math and Physics Titles by Terence Tao and David Tong",
+    "url": "https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/",
+    "text": "New offerings from Quanta Books will invite readers on a tour of transformational ideas that have shaped our modern understanding of the universe."
+  },
+  {
+    "title": "No more O'Reilly subscriptions for me - zerokspot.com",
+    "url": "https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/",
+    "text": "Posted on Dec 5, 2025 22:34:00 +01:00 Tags: reading ebooks"
+  },
+  {
+    "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst | Andrew Nesbitt",
+    "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+    "text": "GitHub Actions has a package manager that ignores decades of supply chain security best practices: no lockfile, no integrity verification, no transitive pinning"
+  },
+  {
+    "title": "Alignment Is Capability",
+    "url": "https://www.off-policy.com/alignment-is-capability/",
+    "text": "Alignment is not a constraint on capable AI systems. Alignment is what capability is at sufficient depth. OpenAI and Anthropic have been running this experiment for two years."
+  },
+  {
+    "title": "Uber Ads Launches Intelligence Insights Tool for Marketers - Business Insider",
+    "url": "https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12",
+    "text": "Uber has said its ad business is on track to generate $1.5 billion in revenue in 2025. It's hoping a new insights platform will encourage more spend."
+  },
+  {
+    "title": "Colors of Growth by Lars Boerner, Tim Reinicke, Samad Sarferaz, Battista Severgnini :: SSRN",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
+    "text": "We develop a novel approach to measuring long-run economic growth by exploiting systematic variation in the use of color in European paintings. Drawing inspirat"
+  },
+  {
+    "title": "Welcome! - Nova",
+    "url": "https://nova-lang.net",
+    "text": "Under construction!"
+  },
+  {
+    "title": "Wayland NVIDIA : Your Complete 2025 Fix for a Broken Desktop | Kextcache",
+    "url": "https://kextcache.com/wayland-nvidia-a-definite-2025-guide/",
+    "text": "Fix flickering & crashes with our definitive Wayland NVIDIA guide for Arch Linux. This tutorial solves common Hyprland, suspend, and multi-monitor issues"
+  },
+  {
+    "title": "The \"Confident Idiot\" Problem: Why AI Needs Hard Rules",
+    "url": "https://steerlabs.substack.com/p/confident-idiot-problem",
+    "text": "Use: We cannot fix probability with more probability. Why I built a deterministic reliability layer for AI agents."
+  },
+  {
+    "title": "Microsoft has a problem: nobody wants its poor AI products | Windows Central",
+    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+    "text": "A new report details how Microsoft has cut some internal goals for its AI sales people, why? Nobody wants to use its weak products."
   },
   {
     "title": "GitHub - HackerNews/API: Documentation and Samples for the Official HN API",
@@ -433,6 +738,11 @@
     "title": "Legal | Y Combinator",
     "url": "https://www.ycombinator.com/legal/",
     "text": "Y Combinator Privacy Policy, Terms of Use, and Trademarks"
+  },
+  {
+    "title": "Apply to Y Combinator | Y Combinator",
+    "url": "https://www.ycombinator.com/apply/",
+    "text": "To apply for the Y Combinator program, submit an application form. We accept companies in batches four times a year. The program includes weekly dinners, office hours with YC partners and access to the network of other YC founders. The program culmin"
   },
   {
     "title": "NASA",
@@ -447,17 +757,17 @@
   {
     "title": "2025 News Releases - NASA",
     "url": "https://www.nasa.gov/2025-news-releases/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Sign up to receive NASA news releases and other information."
   },
   {
     "title": "All NASA News - NASA",
     "url": "https://www.nasa.gov/news/recently-published/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet."
   },
   {
     "title": "Explore Series | NASA+Explore Series - NASA+",
     "url": "https://plus.nasa.gov/series/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "3 Episodes"
   },
   {
     "title": "Podcasts and Audio - NASA",
@@ -467,12 +777,12 @@
   {
     "title": "Blogs - NASA",
     "url": "https://www.nasa.gov/nasa-blogs/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Explore"
   },
   {
     "title": "Newsletters - NASA",
     "url": "https://www.nasa.gov/newsletters/",
-    "text": "Centers and Facilities Aerospace FrontiersRead Online The latest accomplishments and activities from Glenn Research Center in Cleveland, Ohio Armstrong Flight"
+    "text": "Centers and Facilities Aerospace FrontiersRead OnlineThe latest accomplishments and activities from Glenn Research Center in Cleveland, OhioArmstrong Flight"
   },
   {
     "title": "Official NASA Social Media Accounts - NASA",
@@ -482,7 +792,7 @@
   {
     "title": "NASA Media Contacts - NASA",
     "url": "https://www.nasa.gov/news/media-contacts/",
-    "text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle"
+    "text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle"
   },
   {
     "title": "Events - NASA",
@@ -502,17 +812,17 @@
   {
     "title": "Multimedia - NASA",
     "url": "https://www.nasa.gov/multimedia/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Explore"
   },
   {
     "title": "Home | NASA+Home - NASA+",
     "url": "https://plus.nasa.gov/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NEW EPISODE AVAILABLE NOW"
   },
   {
     "title": "NASA Images - NASA",
     "url": "https://www.nasa.gov/images/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA has always told its story through its images, a few of which have become icons of human history."
   },
   {
     "title": "NASA Live - NASA",
@@ -532,17 +842,17 @@
   {
     "title": "Image of the Day - NASA",
     "url": "https://www.nasa.gov/image-of-the-day/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
   },
   {
     "title": "e-Books - NASA",
     "url": "https://www.nasa.gov/ebooks/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Read and download free NASA e-Books on the agency’s history, aeronautics research, science missions, and the International Space Station."
   },
   {
     "title": "Games and Interactives - NASA",
     "url": "https://www.nasa.gov/interactives/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Explore"
   },
   {
     "title": "STEM Content - NASA",
@@ -555,34 +865,34 @@
     "text": "NASA has established specific guidelines for the use of its brand, merchandise, and media. These guidelines are designed to ensure that..."
   },
   {
-    "title": "18933 Search Results for \"Climate Change\"",
+    "title": "20061 Search Results for \"Climate Change\"",
     "url": "https://www.nasa.gov/?search=Climate%20Change",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
-    "title": "18065 Search Results for \"Artemis\"",
+    "title": "18575 Search Results for \"Artemis\"",
     "url": "https://www.nasa.gov/?search=Artemis",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
-    "title": "11880 Search Results for \"Expedition 64\"",
+    "title": "12415 Search Results for \"Expedition 64\"",
     "url": "https://www.nasa.gov/?search=Expedition%2064",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
-    "title": "16239 Search Results for \"Mars perseverance\"",
+    "title": "16134 Search Results for \"Mars perseverance\"",
     "url": "https://www.nasa.gov/?search=Mars%20perseverance",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
-    "title": "14168 Search Results for \"SpaceX Crew-2\"",
+    "title": "14717 Search Results for \"SpaceX Crew-2\"",
     "url": "https://www.nasa.gov/?search=SpaceX%20Crew-2",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
-    "title": "43387 Search Results for \"International Space Station\"",
+    "title": "44398 Search Results for \"International Space Station\"",
     "url": "https://www.nasa.gov/?search=International%20Space%20Station",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "We're working continuously to improve our search results. If you aren't finding what you expect, please use our feedback form to share the search query and expected result with us so we can improve."
   },
   {
     "title": "A to Z Topics Listing - NASA",
@@ -592,12 +902,12 @@
   {
     "title": "Missions - NASA",
     "url": "https://www.nasa.gov/nasa-missions/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA explores the secrets of the universe for the benefit of all."
   },
   {
     "title": "Humans In Space - NASA",
     "url": "https://www.nasa.gov/humans-in-space/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "For more than two decades, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge, and making research breakthroughs that are not possible on Earth."
   },
   {
     "title": "Earth - NASA Science",
@@ -612,7 +922,7 @@
   {
     "title": "Universe - NASA Science",
     "url": "https://science.nasa.gov/universe/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Discover the universe: Learn about the history of the cosmos, what it's made of, and so much more."
   },
   {
     "title": "NASA Science",
@@ -645,19 +955,19 @@
     "text": "Explora el universo y descubre tu planeta natal con nosotros, en tu idioma."
   },
   {
-    "title": "Discovery Alert: 'Baby' Planet Photographed in a Ring around a Star for the First Time! - NASA Scien",
-    "url": "https://science.nasa.gov/universe/exoplanets/discovery-alert-baby-planet-photographed-in-a-ring-around-a-star-for-the-first-time/",
-    "text": "WISPIT 2b"
+    "title": "NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies - NASA",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/",
+    "text": "Next-generation drone flight software is just one of 25 technologies for the Red Planet that the space agency funded for development this year."
   },
   {
-    "title": "Astronaut Candidates Get to Work at Johnson Space Center - NASA",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/",
-    "text": "NASA announced its newest class of astronaut candidates on Sept. 22, 2025, at the agency’s Johnson Space Center in Houston. After the welcome ceremony, the 10"
+    "title": "Sugars, ‘Gum,’ Stardust Found in NASA's Asteroid Bennu Samples - NASA",
+    "url": "https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/",
+    "text": "The asteroid Bennu continues to provide new clues to scientists’ biggest questions about the formation of the early solar system and the origins of life. As"
   },
   {
-    "title": "NASA Aircraft Coordinate Science Flights to Measure Air Quality - NASA Science",
-    "url": "https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/",
-    "text": "Magic is in the air. No wait… MAGEQ is in the air, featuring scientists from NASA centers across the country who teamed up with the National Oceanic and"
+    "title": "NASA's Roman Observatory Passes Spate of Key Tests - NASA",
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-observatory-passes-spate-of-key-tests/",
+    "text": "NASA’s nearly complete Nancy Grace Roman Space Telescope has made another set of critical strides toward launch. This fall, the outer portion passed two tests"
   },
   {
     "title": "Missions - NASA",
@@ -722,12 +1032,12 @@
   {
     "title": "Commercial Space - NASA",
     "url": "https://www.nasa.gov/humans-in-space/commercial-space/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA is enabling commercial industry to build, own, and operate space systems with the agency purchasing services for its science and research needs. Through public-private partnerships, NASA is opening space to more science, people, and opportunitie"
   },
   {
     "title": "Destinations - NASA",
     "url": "https://www.nasa.gov/humans-in-space/destinations/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA is taking a steppingstone approach to human exploration in space. Building on NASA’s 60 years of exploration experience and more than 20 years of continuous human presence on the International Space Station in low Earth orbit, we will extend hum"
   },
   {
     "title": "Living in Space",
@@ -897,7 +1207,7 @@
   {
     "title": "NASA Astrophysics - NASA Science",
     "url": "https://science.nasa.gov/astrophysics/",
-    "text": "The universe is everything: space, matter, energy, and time. NASA’s Astrophysics Division is dedicated to pushing the boundaries of discovery and ensuring"
+    "text": "Each mission builds upon decades of U.S. investment and ingenuity—turning bold ideas into discovery and keeping the nation at the forefront of space"
   },
   {
     "title": "NASA Heliophysics",
@@ -922,7 +1232,7 @@
   {
     "title": "Astromaterials - NASA Science",
     "url": "https://science.nasa.gov/astromaterials/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "The mission of Astromaterials Research and Exploration Science Division, or ARES, is to combine scientific and engineering expertise in order to advance human space exploration, to integrate terrestrial and planetary research, and to promote successf"
   },
   {
     "title": "Aeronautics Research",
@@ -982,27 +1292,27 @@
   {
     "title": "Technology Living in Space - NASA",
     "url": "https://www.nasa.gov/space-living-technology/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Technologies for living in space enable our robotic and human explorers to achieve their mission goals. This means everything from having power to do their work, to the habitats or spacecraft they’ll call home. Our astronauts also need technologies t"
   },
   {
     "title": "Manufacturing and Materials - NASA",
     "url": "https://www.nasa.gov/manufacturing-and-materials/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Advanced manufacturing technologies for both terrestrial and in-space purposes will make commercial and exploration missions more efficient and affordable. We’re developing new materials with improved or combined properties, learning how to build inf"
   },
   {
     "title": "Robotics - NASA",
     "url": "https://www.nasa.gov/robotics/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA uses robotic systems to explore other planets and objects in our solar system as precursors to crewed missions, assist astronauts on the International Space Station, study the universe, and much more. This also includes autonomous systems that e"
   },
   {
     "title": "Science Instruments - NASA",
     "url": "https://www.nasa.gov/science-instruments/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Science instruments are state-of-the-art tools for acquiring information about planetary geology, atmosphere, and environmental conditions. This includes technologies for remote sensing, mapping and observation capabilities, analyzing light from the "
   },
   {
     "title": "Computing - NASA",
     "url": "https://www.nasa.gov/computing/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Space-qualified computing technology is designed to address the most computationally-intensive part of a mission. But for the future, NASA is going to need more power and more processing capabilities. We also work on modeling and simulation tech, sof"
   },
   {
     "title": "For Kids and Students - NASA",
@@ -1042,7 +1352,7 @@
   {
     "title": "NASA's Impact - NASA",
     "url": "https://www.nasa.gov/nasa-impact/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Explore"
   },
   {
     "title": "Centers and Facilities - NASA",
@@ -1052,7 +1362,7 @@
   {
     "title": "NASA Directorates - NASA",
     "url": "https://www.nasa.gov/directorates/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "The National Aeronautics and Space Administration is broken down into six Mission Directorates. Aeronautics, Exploration Systems, Science, Space Operations, and Space Technology."
   },
   {
     "title": "NASA Organization - NASA",
@@ -1062,7 +1372,7 @@
   {
     "title": "People of NASA - NASA",
     "url": "https://www.nasa.gov/people-of-nasa/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "NASA is more than astronauts. We are scientists, engineers, IT specialists, human resource specialists, accountants, writers, photographers, and many other kinds of people working together to break barriers to achieve the seemingly impossible."
   },
   {
     "title": "Careers - NASA",
@@ -1082,7 +1392,7 @@
   {
     "title": "Doing Business with NASA - NASA",
     "url": "https://www.nasa.gov/doing-business-with-nasa/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "Work with NASA to explore and execute innovative, effective, and efficient acquisition business solutions to optimize capabilities and operations that enable NASA’s missions."
   },
   {
     "title": "Get Involved - NASA",
@@ -1115,59 +1425,74 @@
     "text": "Explora el universo en el sitio web Ciencia de la NASA, con datos en español sobre galaxias, estrellas, agujeros negros, exoplanetas, y más."
   },
   {
-    "title": "NASA's Webb Telescope Studies Moon-Forming Disk Around Massive Planet - NASA Science",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
-    "text": "NASA’s James Webb Space Telescope has provided the first direct measurements of the chemical and physical properties of a potential moon-forming disk"
+    "title": "CHAPEA Crew Begins Stay Inside NASA’s Mars Habitat for Second Mission - NASA",
+    "url": "https://www.nasa.gov/humans-in-space/chapea-crew-begins-stay-inside-nasas-mars-habitat-for-second-mission/",
+    "text": "A crew of four research volunteers stepped inside NASA’s CHAPEA (Crew Health and Performance Exploration Analog) habitat on Oct. 19, marking the start of the"
   },
   {
-    "title": "Hubble Captures Puzzling Galaxy - NASA Science",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/",
-    "text": "This Hubble image features the flocculent spiral galaxy NGC 2775, which lies 67 million light-years away in the constellation Cancer."
+    "title": "NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-2025-astronaut-candidates-shaping-artemis-exploration/",
+    "text": "When NASA’s 2025 astronaut candidates arrived at the agency’s Johnson Space Center in Houston this fall, they stepped into history, sharing a common mission"
   },
   {
-    "title": "NASA, Sierra Space Modify Commercial Resupply Services Contract - NASA",
-    "url": "https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/",
-    "text": "In 2016, NASA awarded a Commercial Resupply Services-2 contract to Sierra Space, formerly part of Sierra Nevada Corporation, to resupply the"
+    "title": "NASA Selects 2 Instruments for Artemis IV Lunar Surface Science - NASA Science",
+    "url": "https://science.nasa.gov/missions/artemis/artemis-4/nasa-selects-2-instruments-for-artemis-iv-lunar-surface-science/",
+    "text": "NASA has selected two science instruments designed for astronauts to deploy on the surface of the Moon during the Artemis IV mission to the lunar south polar"
   },
   {
-    "title": "NASA Opens 2026 Human Lander Challenge for Life Support Systems, More - NASA",
-    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/",
-    "text": "NASA’s 2026 Human Lander Challenge is seeking ideas from college and university students to help evolve and transform technologies for life support and"
+    "title": "NASA Astronaut Jonny Kim Advances Research Aboard Space Station - NASA",
+    "url": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-jonny-kim-advances-research-aboard-space-station/",
+    "text": "NASA astronaut Jonny Kim is wrapping up his first mission aboard the International Space Station in early December. During his stay, Kim conducted scientific"
   },
   {
-    "title": "Inside the Visualization: Aerosols - NASA Science",
-    "url": "https://science.nasa.gov/earth/inside-the-visualization-aerosols/",
-    "text": "NASA uses satellites, ground measurements, and powerful computer models to track tiny particles floating in our air called aerosols."
+    "title": "Senyar Swamps Sumatra - NASA Science",
+    "url": "https://science.nasa.gov/earth/earth-observatory/senyar-swamps-sumatra/",
+    "text": "A rare tropical cyclone dropped torrential rains on the Indonesian island, fueling extensive and destructive floods."
   },
   {
-    "title": "NASA Data Powers New Tool to Protect Water Supply After Fires - NASA Science",
-    "url": "https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/",
-    "text": "When wildfires scorch a landscape, the flames are just the beginning. NASA is helping U.S. communities foresee and prepare for what can follow: mudslides, flash flooding, and contaminated water supplies."
+    "title": "Hayli Gubbi’s Explosive First Impression - NASA Science",
+    "url": "https://science.nasa.gov/earth/earth-observatory/hayli-gubbis-explosive-first-impression/",
+    "text": "In its first documented eruption, the Ethiopian volcano sent a plume of gas and ash drifting across continents."
   },
   {
-    "title": "October’s Night Sky Notes: Let’s Go, LIGO! - NASA Science",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/",
-    "text": "September 2025 marks ten years since the first direct detection of gravitational waves as predicted by Albert Einstein’s 1916 theory of General Relativity."
+    "title": "Camp Landsat - NASA Science",
+    "url": "https://science.nasa.gov/kids/camp-landsat/",
+    "text": "Camp Landsat is an exciting collection of videos, interactives, games, and printable activities that explores how Landsat data are used to help us better understand our home planet."
   },
   {
-    "title": "Background - NASA Science",
-    "url": "https://science.nasa.gov/citizen-science/exoplanet-watch/background/",
-    "text": "Overview | Stay in Touch | Community | Glossary | Background Information | Team"
+    "title": "NASA Wins Second Emmy Award for 2024 Total Solar Eclipse Broadcast - NASA",
+    "url": "https://www.nasa.gov/general/nasa-wins-second-emmy-award-for-2024-total-solar-eclipse-broadcast/",
+    "text": "NASA’s broadcast of the April 8, 2024, total solar eclipse has won an Emmy Award for Excellence in Production Technology."
   },
   {
-    "title": "What's Up: October 2025 Skywatching Tips from NASA - NASA Science",
-    "url": "https://science.nasa.gov/solar-system/whats-up-october-2025-skywatching-tips-from-nasa/",
-    "text": "A supermoon takes over the sky, the Draconid meteor shower peeks through, and the Orionid meteor shower shines bright."
+    "title": "F.10 PRISM Correction, FAQ posted, and pre-proposal teleconference today December 5, 2025. - NASA Sc",
+    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/f-10-prism-correction-faq-posted-and-pre-proposal-teleconference-today-december-5-2025/",
+    "text": "F.10 Payloads and Research Investigations on the Surface of the Moon (PRISM) solicits development and flight of a science-driven suite of instruments and"
   },
   {
-    "title": "Exoplanet Watch Overview - NASA Science",
-    "url": "https://science.nasa.gov/citizen-science/exoplanet-watch/exoplanet-watch-overview/",
-    "text": "Who we are: A NASA citizen science project, sponsored by NASA's Universe of Learning, we help anyone explore exoplanets at any level, from students to"
+    "title": "Hubble Spots a Storm of New Stars - NASA Science",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-storm-of-new-stars/",
+    "text": "This Hubble image features a stormy and highly active spiral galaxy named NGC 1792, located over 50 million light-years from Earth."
   },
   {
-    "title": "Lapse in Funding: ROSES POCs offline, this blog will not be updated, due dates will change to TBD on",
-    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/lapse-in-funding-roses-pocs-offline-this-blog-will-not-be-updated-due-dates-will-change-to-tbd-on-nspires/",
-    "text": "NOTICE: October 1, 2025. There has been a lapse in funding. As long as the lapse in funding continues, civil servant points of contact for NASA programs will"
+    "title": "NASA-JAXA XRISM Finds Elemental Bounty in Supernova Remnant - NASA Science",
+    "url": "https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-finds-elemental-bounty-in-supernova-remnant/",
+    "text": "For the first time, scientists have made a clear X-ray detection of chlorine and potassium in the wreckage of a star using data from the Japan-led XRISM"
+  },
+  {
+    "title": "NASA Completes Nancy Grace Roman Space Telescope Construction - NASA",
+    "url": "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+    "text": "NASA’s next big eye on the cosmos is now fully assembled. On Nov. 25, technicians joined the inner and outer portions of the Nancy Grace Roman Space Telescope"
+  },
+  {
+    "title": "Amendment 27: B.4 Space Weather Research-to-Operations-to-Research Step-2 Due Date delayed to April ",
+    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-27-b-4-space-weather-research-to-operations-to-research-step-2-due-date-delayed-to-april-10-2026/",
+    "text": "The primary goal of B.4 Space Weather Research-to-Operations-to-Research (SWR2O2R) is to support applied research and application space weather projects which"
+  },
+  {
+    "title": "NASA's X-59 Completes First Flight, Prepares for More Flight Testing - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-first-flight-prepares-for-more-flight-testing/",
+    "text": "After years of design, development, and testing, NASA’s X-59 quiet supersonic research aircraft took to the skies for the first time Oct. 28, marking a"
   },
   {
     "title": "NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers - NASA",
@@ -1180,44 +1505,34 @@
     "text": "NASA and its partners recently tested a tool for remotely piloted operations that could enable operators to transport people and goods more efficiently within"
   },
   {
-    "title": "Aeronautics e-Books",
-    "url": "https://www.nasa.gov/aeronautics-e-books/",
-    "text": "NASA Aeronautics e-Books highlight groundbreaking research and innovations shaping the future of flight."
+    "title": "OVERFLOW 2.5 - NASA",
+    "url": "https://www.nasa.gov/reference/overflow-2-5/",
+    "text": "OVERFLOW 2.5 introduces the ability to run OVERFLOW on GPU systems."
   },
   {
-    "title": "Amendment 9: F.10 PRISM Final Text and Due Dates - NASA Science",
-    "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-9-f-10-prism-final-text-and-due-dates/",
-    "text": "F.10 Payloads and Research Investigations on the Surface of the Moon (PRISM) solicits development and flight of a science-driven suite of instruments and"
+    "title": "OVERFLOW 2.4 - NASA",
+    "url": "https://www.nasa.gov/reference/overflow-2-4/",
+    "text": "Improvements:"
   },
   {
-    "title": "NASA’s Deep Space Communications Demo Exceeds Project Expectations - NASA",
-    "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/",
-    "text": "The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions"
+    "title": "Join the Artemis Mission to the Moon - NASA",
+    "url": "https://www.nasa.gov/learning-resources/join-artemis/",
+    "text": "Join Artemis -- Make, launch, teach, compete and learn. Find your favorite way to be part of the Artemis mission."
   },
   {
-    "title": "NASA Partnerships Allow Artificial Intelligence to Predict Solar Events - NASA",
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/",
-    "text": "Exploring AI in space bolsters analytics software used in finance, manufacturing, and industry."
+    "title": "NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/",
+    "text": "NASA and industry partners will fly and operate a commercial robotic arm in low Earth orbit through the Fly Foundational Robots mission set to launch in late"
   },
   {
-    "title": "Helio Highlights: October 2025 - NASA Science",
-    "url": "https://science.nasa.gov/learning-resources/science-activation/helio-highlights-october-2025/",
-    "text": "Since we all have a relationship with the Sun, it is important to learn about how it impacts our lives. NASA’s Heliophysics Education Activation Team (HEAT) teaches people of all ages about the Sun, covering everything from how to safely view an ecli"
+    "title": "The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/",
+    "text": "To see Earth from space is to be forever changed by the view. Since Alan Shepard became the first American to lay eyes on our home planet from above,"
   },
   {
-    "title": "Get Involved! - NASA Science",
-    "url": "https://science.nasa.gov/astrophysics/programs/exep/aas-links/",
-    "text": "Learn more about technosignatures and clouds. Dive deeper into specific planets:"
-  },
-  {
-    "title": "From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Spac",
-    "url": "https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/",
-    "text": "When you think about national park and public land astronomy programs, you might picture remote locations far from city lights. But a recent NASA Earth to Sky"
-  },
-  {
-    "title": "International Space Station: Launching NASA and Humanity into Deep Space - NASA",
-    "url": "https://www.nasa.gov/missions/station/iss-research/international-space-station-launching-nasa-and-humanity-into-deep-space/",
-    "text": "The advancements of modern civilization—from the electricity that powers our homes to basic hygienic breakthroughs that ensure our health— happened thanks to"
+    "title": "The International Space Station Marks 25 Years of Continuous Human Presence - NASA",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/the-international-space-station-marks-25-years-of-continuous-human-presence/",
+    "text": "On Nov. 2, 2025, NASA honored 25 years of continuous human presence aboard the International Space Station. What began as a fragile framework of modules has"
   },
   {
     "title": "Pódcast en español de la NASA estrena su tercera temporada - NASA",
@@ -1235,49 +1550,69 @@
     "text": "El silencioso avión supersónico de investigación X-59 de la NASA ha superado las pruebas electromagnéticas, confirmando que sus sistemas funcionarán juntos de"
   },
   {
-    "title": "Artemis Archives - NASA",
-    "url": "https://www.nasa.gov/blogs/artemis/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "title": "NASA Astronaut Jonny Kim Soyuz MS-27 Space Station Farewells and Hatch Closing | NASA+NASA Astronaut",
+    "url": "https://plus.nasa.gov/scheduled-video/nasa-astronaut-jonny-kim-soyuz-ms-27-space-station-farewells-and-hatch-closing/",
+    "text": "Undocking of the Soyuz MS-27 (Ryzhikov, Zubritsky, Kim) from the Prichal module and landing in Kazakhstan; undocking scheduled at 01:41 GMT on Dec. 9, 19:41"
   },
   {
-    "title": "From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II - NASA",
-    "url": "https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/",
-    "text": "A partnership between NASA wind tunnel engineers, data visualization scientists, and software developers verified a quick, cost-effective solution to improve NASA’s Space Launch System rocket for the upcoming Artemis II mission. This will be the firs"
+    "title": "NASA Sets Coverage for Astronaut Jonny Kim, Crewmates Return - NASA",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-jonny-kim-crewmates-return/",
+    "text": "NASA astronaut Jonny Kim, accompanied by Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, is preparing to depart the International Space Station"
   },
   {
-    "title": "Avatars for Astronaut Health to Fly on NASA’s Artemis II - NASA Science",
-    "url": "https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/",
-    "text": "The AVATAR (A Virtual Astronaut Tissue Analog Response) investigation will use organ-on-a-chip devices, or organ chips, to study the effects of deep space radiation and microgravity on human health. The chips will contain cells from Artemis II astron"
+    "title": "International Space Station Archives - NASA",
+    "url": "https://www.nasa.gov/blogs/spacestation/",
+    "text": "Expedition 73 will swap commanders this weekend before three crew members return to Earth on Monday. Expedition 74 officially begins once the home bound trio undocks from the Rassvet module inside the Soyuz MS-27 spacecraft the following day."
   },
   {
-    "title": "NASA Shutdown Information - NASA",
-    "url": "https://www.nasa.gov/shutdown/",
-    "text": "THIS PAGE IS BEING UPDATED AS NEW INFORMATION IS RELEASED."
+    "title": "Expedition 73 - NASA",
+    "url": "https://www.nasa.gov/mission/expedition-73/",
+    "text": "Expedition 73 began on April 19, 2025, and ends in December. The crew welcomed the Axiom Mission-4 crew and the SpaceX Crew-11 mission while continuing to conduct advanced space research."
   },
   {
-    "title": "Crew Works Advanced Science Hardware and Conducts Lab Inspections - NASA",
-    "url": "https://www.nasa.gov/blogs/spacestation/2025/09/30/crew-works-advanced-science-hardware-and-conducts-lab-inspections/",
-    "text": "Space science hardware once again topped the schedule for the Expedition 73 crew aboard the International Space Station on Tuesday. Life support and electronics maintenance to keep the orbital outpost in tip-top shape filled the rest of the day for t"
+    "title": "NASA Software Raises Bar for Aircraft Icing Research - NASA",
+    "url": "https://www.nasa.gov/general/nasa-software-raises-bar-for-aircraft-icing-research/",
+    "text": "NASA developed GlennICE, a new NASA software code, to transform the way we explore, understand, and prevent ice buildup on aircraft wings and engines, as well as control surfaces like rudders and elevators."
   },
   {
-    "title": "NASA signs US-Australia Agreement on Aeronautics, Space Cooperation - NASA",
-    "url": "https://www.nasa.gov/missions/artemis/nasa-signs-us-australia-agreement-on-aeronautics-space-cooperation/",
-    "text": "At the International Astronautical Congress (IAC) taking place in Sydney this week, representatives from the United States and Australia gathered to sign a"
+    "title": "Satellites Detect Seasonal Pulses in Earth’s Glaciers - NASA Science",
+    "url": "https://science.nasa.gov/earth/earth-observatory/satellites-detect-seasonal-pulses-in-earths-glaciers/",
+    "text": "From Alaska’s Saint Elias Mountains to Pakistan’s Karakoram, glaciers speed up and slow down with the seasons."
   },
   {
-    "title": "NASA’s SunRISE Set to Launch in 2026 - NASA Science",
-    "url": "https://science.nasa.gov/blogs/sunrise/2025/09/30/nasas-sunrise-set-to-launch-in-2026/",
-    "text": "NASA is targeting a summer 2026 launch for its SunRISE (Sun Radio Interferometer Space Experiment) mission. The heliophysics mission will launch as a"
+    "title": "What's Up: December 2025 Skywatching Tips from NASA - NASA Science",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-december-2025-skywatching-tips-from-nasa/",
+    "text": "The 3I/ATLAS comet makes its closest approach to Earth, the Geminid meteor shower sparkles across the sky, and the Moon and Jupiter get close for a conjunction."
   },
   {
-    "title": "Hammering Out a Way to Find Shelter on the Moon and Mars - NASA Science",
-    "url": "https://science.nasa.gov/blogs/science-news/2025/09/26/hammering-out-shelter-on-moon-and-mars/",
-    "text": "With several hundred blows of a 10-pound (4.5-kilogram) sledgehammer, researchers tested a method to find subsurface caves that could serve as safe"
+    "title": "Jupiter",
+    "url": "https://science.nasa.gov/jupiter/",
+    "text": "Jupiter is the fifth planet from the Sun, and the largest in the solar system – more than twice as massive as the other planets combined."
   },
   {
-    "title": "NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface - NASA",
-    "url": "https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
-    "text": "The NISAR (NASA-ISRO Synthetic Aperture Radar) Earth-observing radar satellite’s first images of our planet’s surface are in, and they offer a glimpse of"
+    "title": "No Title",
+    "url": "https://www.nasa.gov/wp-content/uploads/2025/12/casa-lg.jpg",
+    "text": "���j��_�\u00193�\u0006���\u0016#e�\u000f⯠>o�ld\u0005�\u0012s���j&�<�t�W��7���\u001b��\u0015��j�j�V�h�p��bM��m�#��\u0017��O����)�|}���髪��(Q�O\u0002���x�\u0013�+W,�l�66 �C([ ��lke\u001aqg�S:F���\u001a4\u0019+�� Q �v�s��@�~\u0016���8��j��Z��F�:yN�\u0015j�c��\u0011#2�����ܪ�?�X��P#m��]�?ty\u0003\u0014Ö\u001063\b��:�@�D4�ي�`���\u001c�(g)�\u000e%6x��r%\u0007�\u0014y��ƴ���T�B{"
+  },
+  {
+    "title": "XRISM Finds Chlorine, Potassium in Cas A - NASA",
+    "url": "https://www.nasa.gov/image-detail/casa-lg/",
+    "text": "This composite image of the Cassiopeia A (or Cas A) supernova remnant, released Jan. 8, 2024, contains X-rays from Chandra (blue), infrared data from Webb (red, green, blue), and optical data from Hubble (red and white). A study by the XRISM (X-ray I"
+  },
+  {
+    "title": "James Webb Space Telescope - NASA",
+    "url": "https://www.nasa.gov/gallery/james-webb-space-telescope/",
+    "text": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
+  },
+  {
+    "title": "Hubble Space Telescope - NASA",
+    "url": "https://www.nasa.gov/gallery/hubble/",
+    "text": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
+  },
+  {
+    "title": "Chandra X-ray Observatory - NASA",
+    "url": "https://www.nasa.gov/gallery/chandra-x-ray-observatory/",
+    "text": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery."
   },
   {
     "title": "NASA Web Privacy Policy and Important Notices - NASA",
@@ -1302,7 +1637,7 @@
   {
     "title": "Newsletters - NASA",
     "url": "https://www.nasa.gov/nasa-newsletters/",
-    "text": "Centers and Facilities Aerospace FrontiersRead Online The latest accomplishments and activities from Glenn Research Center in Cleveland, Ohio Armstrong Flight"
+    "text": "Centers and Facilities Aerospace FrontiersRead OnlineThe latest accomplishments and activities from Glenn Research Center in Cleveland, OhioArmstrong Flight"
   },
   {
     "title": "Sitemap - NASA",
@@ -1312,7 +1647,7 @@
   {
     "title": "NASA Media Contacts - NASA",
     "url": "https://www.nasa.gov/news/nasa-media-contacts/",
-    "text": "Media Contacts Gerelle Dodson NASA Workforce, STEM Engagement 202-358-1600 Jennifer Dooren Deputy News Chief, Cybersecurity 202-358-1600 Tiernan Doyle"
+    "text": "Media Contacts Gerelle DodsonNASA Workforce, STEM Engagement202-358-1600Jennifer DoorenDeputy News Chief, Cybersecurity202-358-1600Tiernan Doyle"
   },
   {
     "title": "NASA Web Privacy Policy and Important Notices - NASA",
@@ -1322,7 +1657,7 @@
   {
     "title": "FOIA Homepage - NASA",
     "url": "https://www.nasa.gov/foia/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "The Freedom of Information Act (FOIA), enacted in 1966, gives any person the right to access government agency records except when the law protects certain information from disclosure."
   },
   {
     "title": "No FEAR Act - NASA",
@@ -1342,7 +1677,7 @@
   {
     "title": "Agency Financial Reports - NASA",
     "url": "https://www.nasa.gov/organizations/budget-annual-reports/agency-financial-reports/",
-    "text": "Due to the lapse in federal government funding, NASA is not updating this website."
+    "text": "This archived content may contain outdated information or references that may not reflect current policy or programs."
   },
   {
     "title": "Contact Page - NASA",
@@ -1420,538 +1755,498 @@
     "text": "Get wikiHow tips, how-tos, and more free content right in your inbox."
   },
   {
-    "title": "Login required - Collab",
-    "url": "https://collab.wikimedia.org/wiki/Fundraising/Donatewiki_documentation",
-    "text": "Return to Main Page."
+    "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+    "url": "https://www.yahoo.com/",
+    "text": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!"
   },
   {
-    "title": "Wikimedia Foundation Privacy Policy - Wikimedia Foundation Governance Wiki",
-    "url": "https://foundation.wikimedia.org/wiki/Project:Privacy_policy",
-    "text": "It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any Wikimedia project."
+    "title": "US | Yahoo News - Latest News & Headlines",
+    "url": "https://www.yahoo.com/news/us/",
+    "text": "The latest news and headlines from Yahoo News. Get breaking news stories and in-depth coverage with videos and photos."
   },
   {
-    "title": "Wikimedia:About - Wikimedia Foundation Governance Wiki",
-    "url": "https://foundation.wikimedia.org/wiki/Project:About",
-    "text": "This wiki does not exactly follow the same rules as the other Wikimedia projects, since it is not open to all for editing, and in case of disagreement, the mechanism for making decisions will be handled by the Wikimedia Foundation staff or Board of T"
-  },
-  {
-    "title": "Policy:Wikimedia General Disclaimer - Wikimedia Foundation Governance Wiki",
-    "url": "https://foundation.wikimedia.org/wiki/Project:General_disclaimer",
-    "text": "This is an informational website of the Wikimedia Foundation (hereafter \"Wikimedia\"). The content of this site is being provided freely, and no kind of agreement or contract is created between you and the owners or users of this site, the owners of t"
-  },
-  {
-    "title": "Discover and build Wikimedia technology - Wikimedia Developer Portal",
-    "url": "https://developer.wikimedia.org",
-    "text": "Find technical documentation, and connect with Wikimedia developer communities."
-  },
-  {
-    "title": "Wikistats - Statistics For Wikimedia Projects",
-    "url": "https://stats.wikimedia.org/#/donate.wikimedia.org",
-    "text": "Statistics for Wikimedia Projects: Wikipedia, Commons, Wikidata, Wikivoyage, Wiktionary, Wikibooks, Wikinews, Wikiquote, Wikiversity"
-  },
-  {
-    "title": "Wikimedia",
-    "url": "https://www.wikimedia.org/",
-    "text": "The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely."
-  },
-  {
-    "title": "MediaWiki",
-    "url": "https://www.mediawiki.org/",
-    "text": "The MediaWiki software is used by tens of thousands of websites and thousands of companies and organisations. It powers Wikipedia and also this website. MediaWiki helps you collect and organise knowledge and make it available to people. It's powerful"
-  },
-  {
-    "title": "Make your donation now - Wikimedia Foundation",
-    "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
-    "text": "Donate to the Wikimedia Foundation, the nonprofit that hosts Wikipedia and other crucial free knowledge projects. Each year, the generosity of the 2% of readers who donate allows us to expand the reach of Wikipedia and its sister projects. Our goal i"
-  },
-  {
-    "title": "قائمة تطبيقات ويكيبيديا للهاتف - ويكيبيديا",
-    "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D9%84%D9%84%D9%87%D8%A7%D8%AA%D9%81",
-    "text": "تعديل - تعديل مصدري - تعديل ويكي بيانات"
-  },
-  {
-    "title": "Seznam mobilních aplikací Wikipedie – Wikipedie",
-    "url": "https://cs.wikipedia.org/wiki/Seznam_mobiln%C3%ADch_aplikac%C3%AD_Wikipedie",
-    "text": "Řada organizací v rámci hnutí Wikimedia, včetně Wikimedia Foundation, vydává mobilní aplikace pro používání Wikipedie v operačních systémech pro mobilní zařízení. Všechny jsou k dispozici zdarma prostřednictvím příslušného obchodu s aplikacemi (např."
-  },
-  {
-    "title": "فهرست برنامه‌های کاربردی موبایل ویکی‌پدیا - ویکی‌پدیا، دانشنامهٔ آزاد",
-    "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C_%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7",
-    "text": "تعدادی از سازمان‌های جنبش ویکی‌مدیا از جمله بنیاد ویکی‌مدیا، اپ موبایل را برای استفاده از ویکی‌پدیا در سیستم عامل‌های دستگاه همراه منتشر می‌کنند. همه برنامه‌ها از طریق فروشگاه اپلیکیشن (به عنوان مثال گوگل پلی، اپ استور، فروشگاه مایکروسافت) به‌صورت را"
-  },
-  {
-    "title": "Daftar aplikasi seluler Wikipedia - Wikipedia bahasa Indonesia, ensiklopedia bebas",
-    "url": "https://id.wikipedia.org/wiki/Daftar_aplikasi_seluler_Wikipedia",
-    "text": "Gerakan Wikimedia diselenggarakan oleh berbagai organisasi khususnya Yayasan Wikimedia. Salah satu rangka upayanya adalah dengan menerbitkan aplikasi Wikipedia resmi untuk perangkat seluler. Aplikasi ini tersedia gratis di berbagai toko aplikasi, sep"
-  },
-  {
-    "title": "Lista di applicazioni mobile di Wikipedia - Wikipedia",
-    "url": "https://it.wikipedia.org/wiki/Lista_di_applicazioni_mobile_di_Wikipedia",
-    "text": "Una serie di organizzazioni all'interno del movimento Wikimedia, inclusa Wikimedia Foundation, pubblicano applicazioni mobile ufficiali per consultare Wikipedia sui diversi sistemi operativi dei dispositivi mobili. Tutte le applicazioni sono disponib"
-  },
-  {
-    "title": "Orodha ya programu za simu za Wikipedia - Wikipedia, kamusi elezo huru",
-    "url": "https://sw.wikipedia.org/wiki/Orodha_ya_programu_za_simu_za_Wikipedia",
-    "text": "Idadi kubwa ya mashirika ndani ya Wikimedia Movement ikiwemo Wikimedia Foundation imechapisha programu tumizi rasmi ya kutumia kwenye mifumo ya simu kwa ajili ya Wikipedia. Ambazo zote zinapatikana bure kupitia maduka ya programu sahihi (kama App sto"
-  },
-  {
-    "title": "വിക്കിപീഡിയ മൊബൈൽ ആപ്ലിക്കേഷനുകളുടെ പട്ടിക - വിക്കിപീഡിയ",
-    "url": "https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF_%E0%B4%AE%E0%B5%8A%E0%B4%AC%E0%B5%88%E0%B5%BD_%E0%B4%86%E0%B4%AA%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%87%E0%B4%B7%E0%B4%A8%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95",
-    "text": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ ഉൾപ്പെടെ വിക്കിമീഡിയ പ്രസ്ഥാനത്തിനുള്ളിലെ നിരവധി സംഘടനകൾ വിക്കിപീഡിയയിലേക്കുള്ള മൊബൈൽ ആക്‌സസ്സിനായി ഔദ്യോഗിക മൊബൈൽ ആപ്ലിക്കേഷനുകൾ പ്രസിദ്ധീകരിക്കുന്നു. എല്ലാം ഉചിതമായ ആപ്പ് സ്റ്റോർ വഴി ലഭ്യമാണ് (ഉദാ Google Play, App Store, Micros"
-  },
-  {
-    "title": "Senarai aplikasi mudah alih Wikipedia - Wikipedia Bahasa Melayu, ensiklopedia bebas",
-    "url": "https://ms.wikipedia.org/wiki/Senarai_aplikasi_mudah_alih_Wikipedia",
-    "text": "Beberapa organisasi dalam pergerakan Wikimedia termasuk Yayasan Wikimedia menerbitkan aplikasi mudah alih rasmi untuk menggunakan Wikipedia pada sistem pengendalian peranti mudah alih. Semua boleh didapati secara percuma melalui kedai aplikasi sesuai"
-  },
-  {
-    "title": "ウィキペディアのモバイルアプリケーション一覧 - Wikipedia",
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%80%E8%A6%A7",
-    "text": "ウィキペディアのモバイルアプリケーション一覧（ウィキペディアのモバイルアプリケーションいちらん）とは、携帯機器向けオペレーティングシステムでウィキペディアを閲覧するためのアプリケーションソフトウェアの一覧である。"
-  },
-  {
-    "title": "Vikipediya mobil ilovalari roʻyxati - Vikipediya",
-    "url": "https://uz.wikipedia.org/wiki/Vikipediya_mobil_ilovalari_ro%CA%BByxati",
-    "text": "Wikimedia Foundation mobil qurilma operatsion tizimlarida Vikipediyadan foydalanish uchun rasmiy nashrlarni nashr etadi, jumladan Wikimedia Foundation jamgʻarmasi ham. Bularning barchasi tegishli (masalan, Google Play, App Store, Windows Store) orqal"
-  },
-  {
-    "title": "List of Wikipedia mobile applications - Simple English Wikipedia, the free encyclopedia",
-    "url": "https://simple.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications",
-    "text": "Wikipedia apps from the Wikimedia Foundation are called \"Wikipedia\"."
-  },
-  {
-    "title": "விக்கிப்பீடியா அலைபேசி செயலிகளின் பட்டியல் - தமிழ் விக்கிப்பீடியா",
-    "url": "https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%85%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D",
-    "text": "விக்கிமீடியா அறக்கட்டளை உட்பட விக்கிமீடியா இயக்கத்திற்குள் உள்ள பல நிறுவனங்கள் கைபேசி சாதன இயக்க முறைமைகளில் விக்கிபீடியாவைப் பயன்படுத்துவதற்கான அதிகாரப்பூர்வ கைபேசி பயன்பாடுகளை வெளியிடுகின்றன. இந்த அனைத்து செயலிகளும் பொருத்தமான செயலிக் கூடங்கள் வழிய"
-  },
-  {
-    "title": "Danh sách ứng dụng di động Wikipedia – Wikipedia tiếng Việt",
-    "url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%E1%BB%A9ng_d%E1%BB%A5ng_di_%C4%91%E1%BB%99ng_Wikipedia",
-    "text": "Quỹ Wikimedia phát hành các ứng dụng di động Wikipedia chính thức để sử dụng Wikipedia trên nhiều hệ điều hành thiết bị di động. Tất cả đều được phân phối miễn phí qua các cửa hàng ứng dụng chính thức: Android (qua Google Play), iOS (qua App Store), "
-  },
-  {
-    "title": "GitHub - wikimedia/apps-android-wikipedia: 📱The official Wikipedia app for Android!",
-    "url": "https://github.com/wikimedia/apps-android-wikipedia",
-    "text": "📱The official Wikipedia app for Android! Contribute to wikimedia/apps-android-wikipedia development by creating an account on GitHub."
-  },
-  {
-    "title": "GitHub - wikimedia/wikipedia-ios: 📱The official Wikipedia iOS app.",
-    "url": "https://github.com/wikimedia/wikipedia-ios",
-    "text": "📱The official Wikipedia iOS app. Contribute to wikimedia/wikipedia-ios development by creating an account on GitHub."
-  },
-  {
-    "title": "Wikimedia Open Source",
-    "url": "https://doc.wikimedia.org/#apps",
-    "text": "The collaborative editing engine that runs Wikipedia."
-  },
-  {
-    "title": "‎Kiwix on the App Store",
-    "url": "https://apps.apple.com/us/app/kiwix/id997079563",
-    "text": "Access the world's knowledge offline with Kiwix! Download free educational content once and browse it anytime, anywhere - no internet connection needed. Kiwix u…"
-  },
-  {
-    "title": "Kiwix JS - Download e instalação gratuitos no Windows | Microsoft Store",
-    "url": "https://www.microsoft.com/store/apps/9P8SLZ4J979J",
-    "text": "Version 3.7.7-3.7.8 [10-Oct-25] Kiwix JS is your gateway to a world of knowledge, even when the Internet is out of reach! This app is designed to empower you with information, no matter where you are. To get started, simply download a FREE content ar"
-  },
-  {
-    "title": "Kiwix Downloads",
-    "url": "https://web.archive.org/web/20181220175523/http://www.kiwix.org/downloads/",
-    "text": "Download the free Kiwix app for your operating system plus free content packages (ZIM files) of your choice."
-  },
-  {
-    "title": "Kiwix | F-Droid - Free and Open Source Android App Repository",
-    "url": "https://web.archive.org/web/20200707150551/https://f-droid.org/packages/org.kiwix.kiwixmobile/",
-    "text": "© 2010-2020 F-Droid Limited and Contributors"
-  },
-  {
-    "title": "Kiwix : navigateur Wikipédia hors ligne – Adoptez cette extension pour 🦊 Firefox (fr)",
-    "url": "https://addons.mozilla.org/fr/firefox/addon/kiwix-offline/",
-    "text": "Télécharger Kiwix : navigateur Wikipédia hors ligne pour Firefox. Kiwix est une solution hors ligne qui vous permet d'accéder à des contenus éducatifs tels que Wikipédia, Wiktionnaire, Stack Exchange, TED Talks et bien d'autres à partir de n'importe "
-  },
-  {
-    "title": "Kiwix JS Browser Extension - Chrome Web Store",
-    "url": "https://chrome.google.com/webstore/detail/kiwix/donaljnlmapmngakoipdmehbfcioahhk",
-    "text": "Kiwix is an offline reader for content from Wikipedia, TED Talks, Stackexchange, and many other sources."
-  },
-  {
-    "title": "WikiOnBoard",
-    "url": "https://cip.github.io/WikiOnBoard/",
-    "text": "WikiOnBoard is a mobile phone app which allows reading the Wikipedia without internet connection."
-  },
-  {
-    "title": "‎WikiMed on the App Store",
-    "url": "https://apps.apple.com/us/app/wikimed/id1281693200",
-    "text": "With 51,000+ medical articles, Wikimed is the largest and most comprehensive collection of health-related articles available. It includes content on diseases, m…"
-  },
-  {
-    "title": "WikiMed by Kiwix - Download e instalação gratuitos no Windows | Microsoft Store",
-    "url": "https://www.microsoft.com/store/apps/9PHJSNP1CZ8J",
-    "text": "Version 3.7.5-3.7.6 [2-Sep-25]: With 67,000+ medical articles, WikiMed Offline Medical Wikpedia is the largest and most comprehensive collection of health-related articles available. It includes content on diseases, medication, anatomy, and sanitatio"
-  },
-  {
-    "title": "WikiNodes for iPad on the iTunes App Store",
-    "url": "https://web.archive.org/web/20110527140210/http://itunes.apple.com/us/app/wikinodes/id433834594",
-    "text": "Learn more, read reviews, and download WikiNodes by IDEA.org on the iTunes App Store."
-  },
-  {
-    "title": "Wikiwand: Faster Wikipedia Reader on the App Store on iTunes",
-    "url": "https://web.archive.org/web/20150317223403/https://itunes.apple.com/app/wikiwand-faster-wikipedia-reader/id947444965",
-    "text": "Read reviews, get customer ratings, see screenshots, and learn more about Wikiwand: Faster Wikipedia Reader on the App Store. Download Wikiwand: Faster Wikipedia Reader and enjoy it on your iPhone, iPad, and iPod touch."
-  },
-  {
-    "title": "Wikiweb: Visual Wikipedia™ Reader on the App Store on iTunes",
-    "url": "https://web.archive.org/web/20150621012222/https://itunes.apple.com/us/app/wikiweb-visual-wikipedia-reader/id499345601",
-    "text": "Read reviews, get customer ratings, see screenshots, and learn more about Wikiweb: Visual Wikipedia™ Reader on the App Store. Download Wikiweb: Visual Wikipedia™ Reader and enjoy it on your iPhone, iPad, and iPod touch."
-  },
-  {
-    "title": "GitHub - commons-app/apps-android-commons: The Wikimedia Commons Android app allows users to upload ",
-    "url": "https://github.com/commons-app/apps-android-commons",
-    "text": "The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons - commons-app/apps-android-commons"
-  },
-  {
-    "title": "Index of /mobile",
-    "url": "https://releases.wikimedia.org/mobile",
-    "text": "https://releases.wikimedia.org/mobile"
-  },
-  {
-    "title": "You can now edit articles, view random pages on the Android Wikipedia app",
-    "url": "https://www.engadget.com/2014-06-25-new-wikipedia-app-android.html",
-    "text": "Wikipedia already has an app, but get ready to meet its replacement. Available on Android starting today, the app's not just an aesthetic refresh; it adds the ability to edit entries directly from your mobile device. For those of us who use Wikipedia"
-  },
-  {
-    "title": "Wikipédia",
-    "url": "https://galaxystore.samsung.com/detail/org.wikipedia",
-    "text": "Aplicação oficial Wikipédia para Android. A Wikipédia é uma enciclopédia livre que contém mais de 32 milhões de artigos em 280 idiomas, sendo a referência mais abrangente compilada por trabalho hum..."
-  },
-  {
-    "title": "Wikipedia - APK Download for Android | Aptoide",
-    "url": "https://wikipedia.en.aptoide.com/app",
-    "text": "Download Wikipedia 2.7.50552-r-2025-10-15 APK for Android right now. No extra costs. User ratings for Wikipedia: 4.65 ★"
-  },
-  {
-    "title": "Download Wikipedia App for Android | Bazaar",
-    "url": "https://cafebazaar.ir/app/org.wikipedia?l=en",
-    "text": "The official app for Wikipedia, the world’s largest source of information."
+    "title": "Latest Political News, Updates, and Analysis - Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/",
+    "text": "The latest political news and headlines from Yahoo News, including national and state level updates, breaking stories and coverage"
   },
   {
     "title": "No Title",
-    "url": "https://www.getjar.com/categories/entertainment-apps/more/Wikipedia-Pro-735624",
-    "text": "Official Wikipedia App for Android. Wikipedia is the free encyclopedia containing more than 20 million articles in 280 languages, and is the most comprehensive and widely used reference work humans have ever compiled. Features: Save article to read l"
+    "url": "https://www.yahoo.com/events/elections/",
+    "text": "US"
   },
   {
-    "title": "Wikipedia Is The Latest Place To Join The Daily Gaming Craze - Kotaku",
-    "url": "https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815",
-    "text": "Following The New York Times , The Washington Post and The Atlantic , the online encyclopedia now has daily activities"
+    "title": "World News - Latest and Breaking Coverage - Yahoo News",
+    "url": "https://www.yahoo.com/news/world/",
+    "text": "The latest world news and headlines from Yahoo News and international publishers, breaking stories, ongoing events, and coverage"
   },
   {
-    "title": "Wikipedia introduces a daily quiz game for Android users",
-    "url": "https://www.yahoo.com/lifestyle/articles/wikipedia-introduces-daily-quiz-game-164825695.html",
-    "text": "Jumping on the game craze with a quiz for history buffs."
+    "title": "Mogi das Cruzes, SP Weather Forecast, Conditions, and Maps – Yahoo Weather",
+    "url": "https://www.yahoo.com/news/weather/",
+    "text": "Thunderstorms today with a high of 79 °F and a low of 67 °F. There is a 61% chance of precipitation."
   },
   {
-    "title": "iPhone App of the Week: Wikipedia Mobile - SmartCompany",
-    "url": "https://web.archive.org/web/20181226132909/https://www.smartcompany.com.au/startupsmart/news-analysis/local/iphone-app-of-the-week-wikipedia-mobile/",
-    "text": "Wikipedia is one of the best resources around – if you ever need to research a topic, it’s a great way to start and is sure to give you a few sources to begin."
+    "title": "Climate Change News",
+    "url": "https://www.yahoo.com/issues/climate-change/",
+    "text": "Get the latest climate change news, photos, videos, and more on from Yahoo News."
   },
   {
-    "title": "Wikipedia Revamps iOS App With Mobile Editing | PCMag",
-    "url": "https://www.pcmag.com/news/wikipedia-revamps-ios-app-with-mobile-editing",
-    "text": "No more waiting until you get home to correct the error you spotted in the \"Atlantic puffin\" article."
+    "title": "Fitness, Nutrition, Sleep & Aging Tips | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/",
+    "text": "Discover expert-backed insights on fitness, nutrition, sleep, and healthy aging to help you feel your best—every day, at every stage of life."
   },
   {
-    "title": "New Wikipedia app for iOS (and an update for our Android App) – Diff",
-    "url": "https://diff.wikimedia.org/2012/04/05/new-wikipedia-app-for-ios-and-an-update-for-our-android-app/",
-    "text": "We launched the official Wikipedia application for Android almost two months ago and the response has been tremendous. We’ve had ~2.25 million installations and ~5000 ratings (with a 4.4/5.0 average). Preliminary reports also indicate about 23 millio"
+    "title": "Mental Health Resources",
+    "url": "https://health.yahoo.com/wellness/mental-health/",
+    "text": "Access expert advice, treatment options, and self-care tips for understanding and managing mental health challenges like anxiety, depression, and stress."
   },
   {
-    "title": "Wikipedia is available on the KaiOS, bringing a wealth of knowledge right to your fingertips. - KaiO",
-    "url": "https://www.kaiostech.com/wikipedia-is-available-on-the-kaios-bringing-a-wealth-of-knowledge-right-to-your-fingertips/",
-    "text": "Wikipedia is available on the KaiOS, bringing a wealth of knowledge right to your fingertips. Thanks to Y9 Microfinance Bank, you can access this amazing resource through consumer finance."
+    "title": "Home STD Tests and Healthy Sex Life Products | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/sexual-health/",
+    "text": "Learn about the most effective STD home testing kits and the best intimate products for a healthy and enjoyable sex life."
   },
   {
-    "title": "WikiNodes Brings A New Perspective To Knowledge | 148 Apps",
-    "url": "http://www.148apps.com/news/wikinodes-brings-perspective-knowledge/",
-    "text": "To a whole generation of computer and internet users Wikipedia has become the wellspring of information that has all of the answers, both right and wrong. Everything from current events to obscure facts can be found on the service, and all at no cost"
+    "title": "Skincare Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/dermatology/",
+    "text": "Discover the latest skincare and topical products, from cleansers to moisturizers, serums to treatments, and find the perfect routine for your skin type and concerns."
   },
   {
-    "title": "WikiNodes for iPad – Making Wikipedia Fun to Explore | iPad Insight",
-    "url": "https://web.archive.org/web/20121013124347/http://ipadinsight.com/ipad-app-reviews/wikinodes-for-ipad-making-wikipedia-fun-to-explore/",
-    "text": "WikiNodes is a new iPad app that offers a lively new approach to working with Wikipedia. As the name might suggest, it uses nodes to represent articles and to"
+    "title": "Oral Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/oral-health/",
+    "text": "Discover the best oral care products and read honest reviews. Find the perfect toothbrush, toothpaste, floss, and more to keep your smile healthy and bright."
   },
   {
-    "title": "WikiNodes for iPad | iPad App Finders",
-    "url": "https://web.archive.org/web/20120325202256/http://ipad.appfinders.com/wikinodes-for-ipad/",
-    "text": "Wikipedia is a a huge database of information one can take advantage of to learn about any topic. In fact, there are so many articles available in on Wikipedia"
+    "title": "Hair Loss Treatments and Prevention | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/hair-loss/",
+    "text": "Discover effective hair loss treatments and prevention products. Gain insights into the latest advancements and find personalized solutions to maintain healthy, vibrant hair."
   },
   {
-    "title": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more | Mashable",
-    "url": "http://mashable.com/2015/03/07/5-cant-miss-apps-imgur/",
-    "text": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more"
+    "title": "Foot Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/foot-health/",
+    "text": "Read comprehensive foot care reviews and expert insights to help you choose the best products for your feet. From moisturizers to insoles, we've got you covered."
   },
   {
-    "title": "5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more",
-    "url": "https://web.archive.org/web/20150621022217/http://mashable.com/2015/03/07/5-cant-miss-apps-imgur/",
-    "text": "This week's list includes Imgur's redesigned app, an Android app to take better selfies and one of the most beautiful Wikipedia apps we've seen yet."
+    "title": "Meal Delivery Services, Weight Loss Programs, and Supplements | Yahoo Health",
+    "url": "https://health.yahoo.com/nutrition/",
+    "text": "Read expert insights and reviews on meal delivery services, weight loss programs, and vitamins and supplements. Our comprehensive guides help you make informed decisions about your health and wellness journey."
   },
   {
-    "title": "WikiWand Makes Wikipedia Beautiful",
-    "url": "https://thenextweb.com/apps/2014/08/19/wikiwand-makes-wikipedia-beautiful/",
-    "text": "Wikipedia is one of the Web’s most visited properties. From quantum mechanics to Laurel and Hardy, the online encyclopedia delivers good primers on just about any topic you can think of. But doesn’t the interface sometimes feel as though it"
+    "title": "Healthy Eating, Meal-Prep, and Diet Trends | Yahoo Health",
+    "url": "https://health.yahoo.com/nutrition/healthy-eating/",
+    "text": "Get expert recommendations on building healthy eating habits, tips for effective meal prepping, and advice on popular diet trends."
   },
   {
-    "title": "WikiWand Makes Wikipedia Beautiful",
-    "url": "https://web.archive.org/web/20231127173732/https://thenextweb.com/news/wikiwand-makes-wikipedia-beautiful",
-    "text": "Wikipedia is one of the Web’s most visited properties. From quantum mechanics to Laurel and Hardy, the online encyclopedia delivers good primers on just about any topic you can think of. But doesn’t the interface sometimes feel as though it"
+    "title": "Meal Delivery Kits and Services | Yahoo Health",
+    "url": "https://health.yahoo.com/nutrition/meal-delivery/",
+    "text": "Discover the best meal delivery services with our comprehensive reviews. Find the perfect meal delivery service that fits your needs and enjoy the convenience of delicious meals delivered straight to your door."
   },
   {
-    "title": "Wikiwand arrives on iPhone to help make Wikipedia beautiful | VentureBeat | Mobile | by Paul Sawers",
-    "url": "https://web.archive.org/web/20150621102319/https://venturebeat.com/2015/03/05/wikiwand-arrives-on-iphone-to-help-make-wikipedia-beautiful/",
-    "text": "Wikiwand, the startup funded to the tune of $600,000 to build a beautiful alternative to the main Wikipedia app, has launched its first native mobile client, kicking off on iPhone."
+    "title": "Weight Loss Resources",
+    "url": "https://health.yahoo.com/nutrition/weight-loss/",
+    "text": "Find expert insights, treatment options, and lifestyle tips for managing weight loss in a healthy, sustainable, and medically supported way."
   },
   {
-    "title": "The Best Tools to Improve Your Wikipedia Experience | PCMag",
-    "url": "https://www.pcmag.com/article/351839/the-best-tools-to-improve-your-wikipedia-experience",
-    "text": "Wikipedia is not always easy to navigate. These sites and apps make it easier to use."
+    "title": "Vitamins and Supplements | Yahoo Health",
+    "url": "https://health.yahoo.com/nutrition/vitamins-supplements/",
+    "text": "Read in-depth reviews of vitamins and supplements to make informed decisions about your health and wellness. Our comprehensive guides provide expert insights and real user experiences to help you choose the right products for your needs."
   },
   {
-    "title": "Wikiweb: A Beautiful iOS Wikipedia App",
-    "url": "https://thenextweb.com/apps/2012/07/14/wikiweb-a-beautiful-ios-wikipedia-app-that-lets-you-visualize-connections-between-articles/",
-    "text": "Wikipedia may have been one of the Web’s most recognizable brands for years, but it sure took its time to roll-out an official Android app, finally launching on Google’s mobile OS in January this year. However, an iOS app has been available"
+    "title": "Fitness Equipment and Exercise Programs | Yahoo Health",
+    "url": "https://health.yahoo.com/fitness/",
+    "text": "Read comprehensive fitness equipment reviews and expert exercise program analyses to stay informed about the latest gear and training methods to achieve your fitness goals."
   },
   {
-    "title": "Wikiweb app makes wasting time on Wikipedia even easier | The Verge",
-    "url": "https://www.theverge.com/2012/7/18/3167757/wikiweb-ios-app-wikipedia",
-    "text": "Available now through iTunes, Wikiweb lets you create a “web” of Wikipedia entries by linking related articles, instantly decreasing work productivity."
+    "title": "Home Workout Equipment | Yahoo Health",
+    "url": "https://health.yahoo.com/fitness/equipment/",
+    "text": "Learn about the best home workout equipment with our in-depth reviews and expert insights. Get fit and healthy in the comfort of your home."
   },
   {
-    "title": "Wikimedia Apps - MediaWiki",
-    "url": "https://www.mediawiki.org/wiki/Wikimedia_Apps",
-    "text": "For general questions about the team's Wikipedia apps, see:"
+    "title": "Workout Subscription Apps and Gym Memberships | Yahoo Health",
+    "url": "https://health.yahoo.com/fitness/exercise/",
+    "text": "Discover the best workout subscription apps and gym memberships with our comprehensive reviews. Compare features, prices, and user experiences to find the perfect fitness solution for your goals."
   },
   {
-    "title": "Reading/Web/Mobile - MediaWiki",
-    "url": "https://www.mediawiki.org/wiki/Reading/Web/Mobile",
-    "text": "The Foundation's reading team evolved from a team called the mobile web team."
+    "title": "Women's Health | Yahoo Health",
+    "url": "https://health.yahoo.com/womens-health/",
+    "text": "Explore our wide range of women’s health products for all stages of life, from fertility to menopause. Read honest reviews and make informed decisions about your wellness."
   },
   {
-    "title": "Wikistats - Statistics For Wikimedia Projects",
-    "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
-    "text": "Statistics for Wikimedia Projects: Wikipedia, Commons, Wikidata, Wikivoyage, Wiktionary, Wikibooks, Wikinews, Wikiquote, Wikiversity"
+    "title": "Mattress Reviews and Sleep Tips | Yahoo Health",
+    "url": "https://health.yahoo.com/sleep/",
+    "text": "Discover the best mattresses and improve your sleep with our comprehensive reviews, expert advice, and recommendations. Find the perfect mattress for your needs and wake up refreshed every day."
   },
   {
-    "title": "Apple",
-    "url": "https://www.apple.com/",
-    "text": "All out Pro."
+    "title": "Hearing, Mobility, and Personal Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/healthy-aging/",
+    "text": "Discover expert insights and personal experiences on hearing, mobility, and aging-related personal care products. Read in-depth reviews, comparisons, and guides to make informed decisions about your health and wellness."
   },
   {
-    "title": "Apple Store Online - Apple",
-    "url": "https://www.apple.com/us/shop/goto/store",
-    "text": "Shop the latest Apple products, accessories and offers. Compare models, get expert shopping help, plus flexible payment and delivery options."
+    "title": "Hearing Resources",
+    "url": "https://health.yahoo.com/healthy-aging/hearing/",
+    "text": "Access expert tips, care options, and assistive solutions for protecting hearing and managing hearing loss at any stage of life."
   },
   {
-    "title": "Mac - Apple",
-    "url": "https://www.apple.com/mac/",
-    "text": "The most powerful Mac laptops and desktops ever. Supercharged by Apple silicon. MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Mac Pro."
+    "title": "Mobility Aids and Equipment | Yahoo Health",
+    "url": "https://health.yahoo.com/healthy-aging/mobility/",
+    "text": "Read expert insights and personal experiences on mobility aids and equipment like scooters and wheelchairs. Make informed decisions about your mobility needs and enhance your independence and quality of life."
   },
   {
-    "title": "iPad - Apple",
-    "url": "https://www.apple.com/ipad/",
-    "text": "Explore every iPad. Featuring iPad Pro, iPad Air, iPad mini, and iPad. For work, creativity, or play."
+    "title": "No Title",
+    "url": "https://www.yahoo.com/news/science/",
+    "text": "US"
   },
   {
-    "title": "iPhone - Apple",
-    "url": "https://www.apple.com/iphone/",
-    "text": "Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.* Shop iPhoneGet credit when you trade in your curre"
+    "title": "Latest Trending and Live Original Coverage from Yahoo News",
+    "url": "https://news.yahoo.com/originals/",
+    "text": "Yahoo News' award-winning original coverage of politics, science, weather, and health, plus explainers and FAQs on the current events."
   },
   {
-    "title": "Apple Watch - Apple",
-    "url": "https://www.apple.com/watch/",
-    "text": "Get 3 months of Apple Fitness+ when you buy any Apple Watch.1 Shop Apple Watch"
+    "title": "No Title",
+    "url": "https://news.yahoo.com/newsletters/",
+    "text": "US"
   },
   {
-    "title": "Apple Vision Pro - Apple",
-    "url": "https://www.apple.com/apple-vision-pro/",
-    "text": "Stream Wolfs on Apple TV+ with a subscription"
+    "title": "No Title",
+    "url": "https://www.yahoo.com/games",
+    "text": "https://www.yahoo.com/games"
   },
   {
-    "title": "AirPods - Apple",
-    "url": "https://www.apple.com/airpods/",
-    "text": "Buy AirPods Pro 3 and get 3 months of Apple Fitness+* and Apple Music** free. Buy"
+    "title": "Yahoo Life: Latest News on Health, Wellness, Style, Fashion Trends and More",
+    "url": "https://www.yahoo.com/lifestyle/",
+    "text": "Yahoo Life is your source for style, beauty, and wellness, including health, inspiring stories, and the latest fashion trends."
   },
   {
-    "title": "TV & Home - Apple",
-    "url": "https://www.apple.com/tv-home/",
-    "text": "HomePod"
+    "title": "Yahoo Health: Advice and Reviews on Nutrition, Fitness, Sleep, Aging, Well Being and More",
+    "url": "https://health.yahoo.com/",
+    "text": "Yahoo Health is your trusted guide for women's and men's health, fitness memberships and equipment, nutritional food and supplements, healthy aging, restful sleep, and personal well being."
   },
   {
-    "title": "Entertainment - Services - Apple",
-    "url": "https://www.apple.com/entertainment/",
-    "text": "Award‑winning movies. Binge‑worthy shows. Your favorite music mastered in Spatial Audio. The most epic collection of mobile games. And the world’s largest library of 4K Ultra HD fitness content. The best entertainment and experiences live here — only"
+    "title": "Meal Delivery Services, Weight Loss Programs, and Supplements | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/nutrition/",
+    "text": "Read expert insights and reviews on meal delivery services, weight loss programs, and vitamins and supplements. Our comprehensive guides help you make informed decisions about your health and wellness journey."
   },
   {
-    "title": "Apple Accessories for Apple Watch, iPhone, iPad, Mac and Vision Pro - Apple",
-    "url": "https://www.apple.com/us/shop/goto/buy_accessories",
-    "text": "Shop Apple accessories for Apple Watch, iPhone, iPad, Mac, and Vision Pro. Search by product lines or browse by categories. Buy now with fast, free shipping."
+    "title": "Fitness Equipment and Exercise Programs | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/fitness/",
+    "text": "Read comprehensive fitness equipment reviews and expert exercise program analyses to stay informed about the latest gear and training methods to achieve your fitness goals."
   },
   {
-    "title": "Official Apple Support",
-    "url": "https://support.apple.com/?cid=gn-ols-home-hp-tab",
-    "text": "Learn more about popular features and topics, and find resources that will help you with all of your Apple products."
+    "title": "Hearing, Mobility, and Personal Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/healthy-aging/",
+    "text": "Discover expert insights and personal experiences on hearing, mobility, and aging-related personal care products. Read in-depth reviews, comparisons, and guides to make informed decisions about your health and wellness."
   },
   {
-    "title": "Apple Store Search Results - Apple",
-    "url": "https://www.apple.com/us/search",
-    "text": "Apple Store Search Results"
+    "title": "Mattress Reviews and Sleep Tips | Yahoo Health",
+    "url": "https://health.yahoo.com/wellness/sleep/",
+    "text": "Discover the best mattresses and improve your sleep with our comprehensive reviews, expert advice, and recommendations. Find the perfect mattress for your needs and wake up refreshed every day."
   },
   {
-    "title": "Bag - Apple",
-    "url": "https://www.apple.com/us/shop/goto/bag",
-    "text": "Bag"
+    "title": "Your Body: Foot Health, Hair Loss, Hearing, Oral Care & More | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/",
+    "text": "Discover expert-backed advice on foot health, hair loss, hearing, oral care, sexual health, and women’s health. Take charge of your body with Yahoo Health."
   },
   {
-    "title": "App Store - Apple",
-    "url": "https://www.apple.com/ios/app-store/",
-    "text": "For over a decade, the App Store has proved to be a safe and trusted place to discover and download apps. But the App Store is more than just a storefront — it’s an innovative destination focused on bringing you amazing experiences. And a big part of"
+    "title": "Skincare Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/dermatology/",
+    "text": "Discover the latest skincare and topical products, from cleansers to moisturizers, serums to treatments, and find the perfect routine for your skin type and concerns."
   },
   {
-    "title": "‎Wikimedia Foundation Apps on the App Store",
-    "url": "https://apps.apple.com/us/developer/wikimedia-foundation/id324715241",
-    "text": "Download apps by Wikimedia Foundation, including Wikipedia."
+    "title": "Children's Health Resources",
+    "url": "https://health.yahoo.com/your-body/childrens-health/",
+    "text": "Explore expert advice, care tips, and treatment insights for managing children's health issues, from common illnesses to growth, development, and wellness."
   },
   {
-    "title": "‎Top iPhone Reference apps on the App Store - Apple",
-    "url": "https://apps.apple.com/us/charts/iphone/reference-apps/6006",
-    "text": "Explore top iPhone Reference apps on the App Store, like Bible Chat: Daily Devotional, Knot IQ - The Bear Essentials, and more."
+    "title": "Foot Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/foot-health/",
+    "text": "Read comprehensive foot care reviews and expert insights to help you choose the best products for your feet. From moisturizers to insoles, we've got you covered."
   },
   {
-    "title": "Wikimedia Foundation Privacy Policy - Wikimedia Foundation Governance Wiki",
-    "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "text": "It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any Wikimedia project."
+    "title": "Hair Loss Treatments and Prevention | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/hair-loss/",
+    "text": "Discover effective hair loss treatments and prevention products. Gain insights into the latest advancements and find personalized solutions to maintain healthy, vibrant hair."
   },
   {
-    "title": "‎Learn More About App Privacy : App Store Story",
-    "url": "https://apps.apple.com/story/id1538632801",
-    "text": "Learn about Learn More About App Privacy on Mac App Store. Download Learn More About App Privacy and enjoy it on your iPhone, iPad, and Mac."
+    "title": "Hearing Resources",
+    "url": "https://health.yahoo.com/your-body/hearing/",
+    "text": "Access expert tips, care options, and assistive solutions for protecting hearing and managing hearing loss at any stage of life."
   },
   {
-    "title": "‎iPhone Top Charts on the App Store - Apple",
-    "url": "https://itunes.apple.com/us/genre/id6006",
-    "text": "Find and download top apps and games for iPhone on the App Store."
+    "title": "Oral Care Products and Reviews | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/oral-health/",
+    "text": "Discover the best oral care products and read honest reviews. Find the perfect toothbrush, toothpaste, floss, and more to keep your smile healthy and bright."
   },
   {
-    "title": "‎Age Ratings : App Store Story",
-    "url": "https://apps.apple.com/us/story/id1825160725",
-    "text": "Learn about Age Ratings on Mac App Store. Download Age Ratings and enjoy it on your iPhone, iPad, and Mac."
+    "title": "Home STD Tests and Healthy Sex Life Products | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/sexual-health/",
+    "text": "Learn about the most effective STD home testing kits and the best intimate products for a healthy and enjoyable sex life."
   },
   {
-    "title": "Wikimedia Apps/Team/iOS - MediaWiki",
-    "url": "https://m.mediawiki.org/wiki/Wikimedia_Apps/Team/iOS",
-    "text": "This page contains information and links specific to the iOS team and codebase."
+    "title": "Women's Health | Yahoo Health",
+    "url": "https://health.yahoo.com/your-body/womens-health/",
+    "text": "Explore our wide range of women’s health products for all stages of life, from fertility to menopause. Read honest reviews and make informed decisions about your wellness."
   },
   {
-    "title": "Wikimedia Apps/iOS FAQ - MediaWiki",
-    "url": "https://www.mediawiki.org/wiki/Wikimedia_Apps/iOS_FAQ",
-    "text": "The app is available in Apple's App Store worldwide."
+    "title": "Health Condition Resources",
+    "url": "https://health.yahoo.com/conditions/",
+    "text": "Access expert insights, treatment options, and care tips for understanding, managing, and preventing a wide range of health conditions across all ages."
   },
   {
-    "title": "‎DailyArt on the App Store",
-    "url": "https://apps.apple.com/us/app/dailyart/id547982045",
-    "text": "DailyArt is the #1 app to learn about art history. Every day, get inspired by beautiful classic, modern, and contemporary art masterpieces and read short storie…"
+    "title": "Cardiovascular Health: Conditions, Symptoms, and Care",
+    "url": "https://health.yahoo.com/conditions/cardiovascular-health/",
+    "text": "Explore cardiovascular health with guides on conditions, symptoms, and treatment."
   },
   {
-    "title": "‎NASA on the App Store",
-    "url": "https://apps.apple.com/us/app/nasa/id334325516",
-    "text": "The redesigned NASA App unlocks access to the new NASA+ video streaming service, plus all the latest NASA images, news, mission information, podcasts, and inter…"
+    "title": "Digestive Health: Conditions, Symptoms, and Treatment",
+    "url": "https://health.yahoo.com/conditions/digestive-health/",
+    "text": "Learn about digestive health, common conditions, symptoms, and treatments."
   },
   {
-    "title": "‎TED Talks: Watch and Learn on the App Store",
-    "url": "https://apps.apple.com/us/app/ted-talks-watch-and-learn/id376183339",
-    "text": "Get personalized recommendations that match your unique interests, or browse TED’s library of thousands of inspiring, informative, transformational videos for f…"
+    "title": "Endocrine System: Hormones, Disorders, and Treatment",
+    "url": "https://health.yahoo.com/conditions/endocrine-system/",
+    "text": "Learn about the endocrine system, its disorders, and treatment options."
   },
   {
-    "title": "‎Google Arts & Culture on the App Store",
-    "url": "https://apps.apple.com/us/app/google-arts-culture/id1050970557",
-    "text": "Are you curious about what Van Gogh’s Starry Night looks like up close? Have you ever toured the ancient Maya temples or met the inspirational figures of Black…"
+    "title": "Family & Relationship News and Stories – Yahoo Life",
+    "url": "https://www.yahoo.com/lifestyle/family-relationships/",
+    "text": "Stay informed with the latest family and relationship news, including expert advice on parenting, marriage, dating, and modern family life from Yahoo Life."
   },
   {
-    "title": "‎Merriam-Webster Dictionary on the App Store",
-    "url": "https://apps.apple.com/us/app/merriam-webster-dictionary/id399452287",
-    "text": "Get America's most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, t…"
+    "title": "Challenges & Joys of Parenthood - Yahoo",
+    "url": "https://www.yahoo.com/guides/so-mini-ways/",
+    "text": "Getting real about the challenges and joys of parenthood from influential people like your favorite celebrities, influencers, and more."
   },
   {
-    "title": "Legal - Internet Services - Apple",
-    "url": "https://www.apple.com/legal/internet-services/",
-    "text": "Learn the terms and policies that apply to various Apple online features and services."
+    "title": "Free Zodiac Sign Horoscopes & Astrology Predictions | Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/horoscope/",
+    "text": "Explore your free horoscope by zodiac sign and get personalized astrology predictions for love, career, and life. Discover what the stars have in store with Yahoo Life."
   },
   {
-    "title": "Legal - App Store & Privacy- Apple",
-    "url": "https://www.apple.com/legal/privacy/data/en/app-store",
-    "text": "https://www.apple.com/legal/privacy/data/en/app-store"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/",
+    "text": "Style"
   },
   {
-    "title": "Legal - Use of Cookies - Apple",
-    "url": "https://www.apple.com/privacy/use-of-cookies/",
-    "text": "https://www.apple.com/privacy/use-of-cookies/"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/style/",
+    "text": "Style"
   },
   {
-    "title": "Subscriptions and Billing - Official Apple Support",
-    "url": "https://support.apple.com/billing",
-    "text": "Find the answers you need about buying and paying for apps, music, movies, books and more."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/style/accessories/",
+    "text": "Style"
   },
   {
-    "title": "Apple Store - Find a Store - Apple",
-    "url": "https://www.apple.com/retail/",
-    "text": "Find an Apple Store and shop for Mac, iPhone, iPad, Apple Watch, and more. Sign up for Today at Apple programs. Or get support at the Genius Bar."
+    "title": "Clothing and Fashion Deals and Reviews | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/style/clothing/",
+    "text": "Shop the latest deals, score coupons and read reviews on men's and women's clothing and fashion."
   },
   {
-    "title": "Choose your country or region - Apple",
-    "url": "https://www.apple.com/choose-country-region/",
-    "text": "https://www.apple.com/choose-country-region/"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/style/luggage/",
+    "text": "Style"
   },
   {
-    "title": "Legal - Privacy Policy - Apple",
-    "url": "https://www.apple.com/legal/privacy/",
-    "text": "Apple is committed to your privacy. Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/style/shoes/",
+    "text": "Style"
   },
   {
-    "title": "Legal - Website Terms of Use - Apple",
-    "url": "https://www.apple.com/legal/internet-services/terms/site.html",
-    "text": "Legal Information & Notices"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/beauty/",
+    "text": "Style"
   },
   {
-    "title": "Apple - Legal - Sales Policies - U.S. Retail Sales",
-    "url": "https://www.apple.com/us/shop/goto/help/sales_refunds",
-    "text": "By placing an order or making a purchase at an Apple Store, you agree to the terms below, along with Apple’s Privacy Policy and Terms of Use."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/beauty/hair/",
+    "text": "Style"
   },
   {
-    "title": "Apple - Legal",
-    "url": "https://www.apple.com/legal/",
-    "text": "Find legal information and resources for Apple products and services."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/beauty/makeup/",
+    "text": "Style"
   },
   {
-    "title": "Site Map - Apple",
-    "url": "https://www.apple.com/sitemap/",
-    "text": "https://www.apple.com/sitemap/"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/beauty/skincare/",
+    "text": "Style"
   },
   {
-    "title": "Mozilla Support",
-    "url": "https://support.mozilla.org/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
-    "text": "Popular Searches:"
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/beauty/sunscreen/",
+    "text": "Style"
   },
   {
-    "title": "Add-ons for Firefox (en-US)",
-    "url": "https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
-    "text": "Download Firefox extensions and themes. They’re like apps for your browser. They can block annoying ads, protect passwords, change browser appearance, and more."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/",
+    "text": "Style"
   },
   {
-    "title": "Firefox - YouTube",
-    "url": "https://www.youtube.com/@firefox/podcasts?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources",
-    "text": "Firefox helps you stay in control and in the know on the web. New videos every Monday, Wednesday, and Friday."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/dental/",
+    "text": "Style"
   },
   {
-    "title": "Firefox support for Windows 7, 8, and 8.1 | Firefox Help",
-    "url": "https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support",
-    "text": "Firefox version 115 ESR will be the last supported release for Windows 7, 8 and 8.1."
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/fitness/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/hair-loss/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/hearing-aids/",
+    "text": "Style"
+  },
+  {
+    "title": "Mental Health and Wellness Deals and Reviews | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/health/mental-health/",
+    "text": "Shop the latest deals, score coupons and read reviews on mental wellness products, mental health resources, counseling services and more."
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/mobility/",
+    "text": "Style"
+  },
+  {
+    "title": "Nutrition products, Supplements and Meal Kit Deals and Reviews | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/health/nutrition/",
+    "text": "Shop the latest deals, score coupons and read reviews on nutrition products, supplements, meal kits and more."
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/personal-care/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/sleep/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/health/womens-health/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/home-garden/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/home/bedding/",
+    "text": "Style"
+  },
+  {
+    "title": "Cleaning Product Deals and Reviews | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/home/cleaning/",
+    "text": "Shop the latest deals, score coupons and read reviews on cleaning products, supplies, tools and more."
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/home/gardening/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/home/kitchen/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/home/outdoor/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/pets/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/accessories/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/audio/",
+    "text": "Style"
+  },
+  {
+    "title": "Car Accessories and Cleaning Supply Deals and Reviews | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/tech/auto/",
+    "text": "Shop the latest deals, score coupons and read reviews on car accessories, car cleaning kits, organizers and more."
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/computing/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/phones/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/smart-home/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/tech/tvs/",
+    "text": "Style"
+  },
+  {
+    "title": "No Title",
+    "url": "https://shopping.yahoo.com/gift-ideas/",
+    "text": "Style"
+  },
+  {
+    "title": "Yahoo Shopping Stores – Explore Top Retailers & Exclusive Deals",
+    "url": "https://shopping.yahoo.com/stores/",
+    "text": "Shop now for exclusive deals and fast shipping on electronics, fashion, home goods, and more."
+  },
+  {
+    "title": "Amazon Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/amazon/",
+    "text": "Explore the latest Amazon coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like tech, home essentials, and more to maximize your savings."
+  },
+  {
+    "title": "Best Buy Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/best-buy/",
+    "text": "Explore the latest Best Buy coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like tech, computers, TVs and more to maximize your savings."
+  },
+  {
+    "title": "Home Depot Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/home-depot/",
+    "text": "Explore the latest Home Depot coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like home essentials, bedding, bath and more to maximize your savings."
+  },
+  {
+    "title": "Macy's Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/macys/",
+    "text": "Explore the latest Macy's coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like clothing, beauty, shoes, home essentials and more to maximize your savings."
+  },
+  {
+    "title": "Nordstrom Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/nordstrom/",
+    "text": "Explore the latest Nordstrom coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like clothing, shoes, makeup, home essentials and more to maximize your savings."
+  },
+  {
+    "title": "Target Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/target/",
+    "text": "Explore the latest Target coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like clothing, beauty, home essentials, and more to maximize your savings."
+  },
+  {
+    "title": "Walmart Coupons, Deals and Store Details | Yahoo Shopping",
+    "url": "https://shopping.yahoo.com/stores/walmart/",
+    "text": "Explore the latest Walmart coupons, exclusive deals, and comprehensive store details on Yahoo Shopping. Find top discounts across categories like tech, home essentials, and more to maximize your savings."
   }
 ]
