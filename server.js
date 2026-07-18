@@ -18,5 +18,5 @@ app.get('/index.json', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`SLMP3 Crawl running o http://localhost:${PORT}`);
+  console.log(`SLMP3 Crawl running on http://localhost:${PORT}`);
 });
