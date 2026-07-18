@@ -11,8 +11,9 @@ let startUrls = [
   "https://www.bbc.com/news",    
   "https://news.ycombinator.com",    
   "https://www.archive.org",    
-  "https://www.nasa.gov",    
   "https://www.wikihow.com",    
+  "https://www.nasa.gov",    
+  "https://www.google.com",
   "https://www.yahoo.com"
 ];    
     
@@ -138,8 +139,8 @@ metaDescription = metaDescription.replace(/\s+/g, ' ').trim().substring(0, 250);
     
       await new Promise(r => setTimeout(r, 1000));    
     
-      const MAX_VISITED = 600;    
-      if (visited.size >= MAX_VISITED) break;    
+      const MAX_VISITED = 1000;    // This defines the maximum number of websites a crawler can index. 
+      if (visited.size >= MAX_VISITED) break;    // will automatically finish the program if the number is reached.
     
     } catch (error) {    
       console.log("Error:", error.message);    
